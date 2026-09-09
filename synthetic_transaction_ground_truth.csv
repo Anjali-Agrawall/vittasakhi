@@ -1,0 +1,628 @@
+transaction_id,date,persona,occupation,transaction_type,category,description,amount_inr,payment_method,recurring,balance_inr
+AS-20260102-E001,2026-01-02,Asha,tiffin service,expense,cooking_gas,LPG cylinder,895,UPI,yes,5605.0
+AS-20260103-E002,2026-01-03,Asha,tiffin service,expense,school,School fees/supplies,903,UPI,no,4702.0
+AS-20260104-E003,2026-01-04,Asha,tiffin service,expense,electricity,Electricity bill,1263,UPI,yes,3439.0
+AS-20260105-E005,2026-01-05,Asha,tiffin service,expense,cooking_gas,LPG cylinder,1029,UPI,yes,3267.0
+AS-20260105-I004,2026-01-05,Asha,tiffin service,income,work_income,family tiffin payment,857,cash,yes,4296.0
+AS-20260109-E006,2026-01-09,Asha,tiffin service,expense,mobile,Mobile recharge,243,UPI,yes,3024.0
+AS-20260110-E007,2026-01-10,Asha,tiffin service,expense,vegetables,Vegetable market,105,cash,no,2919.0
+AS-20260112-I008,2026-01-12,Asha,tiffin service,income,work_income,office lunch payment,969,cash,yes,3888.0
+AS-20260113-E009,2026-01-13,Asha,tiffin service,expense,food,Tea/snacks,112,cash,no,3776.0
+AS-20260113-E010,2026-01-13,Asha,tiffin service,expense,cooking_gas,LPG cylinder,927,UPI,yes,2849.0
+AS-20260114-E011,2026-01-14,Asha,tiffin service,expense,electricity,Electricity bill,997,UPI,yes,1852.0
+AS-20260116-E012,2026-01-16,Asha,tiffin service,expense,groceries,Kirana groceries,209,UPI,no,1643.0
+AS-20260117-E013,2026-01-17,Asha,tiffin service,expense,vegetables,Vegetable market,217,cash,no,1426.0
+AS-20260118-E014,2026-01-18,Asha,tiffin service,expense,food,Tea/snacks,171,cash,no,1255.0
+AS-20260119-E016,2026-01-19,Asha,tiffin service,expense,transport,Bus/auto fare,45,cash,no,3136.0
+AS-20260119-I015,2026-01-19,Asha,tiffin service,income,work_income,family tiffin payment,1926,UPI,yes,3181.0
+AS-20260120-E017,2026-01-20,Asha,tiffin service,expense,cooking_gas,LPG cylinder,893,UPI,yes,2243.0
+AS-20260121-E018,2026-01-21,Asha,tiffin service,expense,mobile,Mobile recharge,380,UPI,yes,1863.0
+AS-20260123-E019,2026-01-23,Asha,tiffin service,expense,electricity,Electricity bill,652,UPI,yes,1211.0
+AS-20260124-E020,2026-01-24,Asha,tiffin service,expense,food,Tea/snacks,43,cash,no,1168.0
+AS-20260126-E022,2026-01-26,Asha,tiffin service,expense,electricity,Electricity bill,709,UPI,yes,1317.0
+AS-20260126-I021,2026-01-26,Asha,tiffin service,income,work_income,weekly tiffin collection,858,bank_transfer,yes,2026.0
+AS-20260128-E023,2026-01-28,Asha,tiffin service,expense,transport,Bus/auto fare,115,cash,no,1202.0
+AS-20260128-E024,2026-01-28,Asha,tiffin service,expense,vegetables,Vegetable market,209,cash,no,993.0
+AS-20260129-E025,2026-01-29,Asha,tiffin service,expense,electricity,Electricity bill,347,UPI,yes,646.0
+AS-20260129-E026,2026-01-29,Asha,tiffin service,expense,school,School fees/supplies,226,UPI,no,420.0
+AS-20260130-E027,2026-01-30,Asha,tiffin service,expense,electricity,Electricity bill,147,UPI,yes,273.0
+AS-20260130-E028,2026-01-30,Asha,tiffin service,expense,school,School fees/supplies,95,UPI,no,178.0
+AS-20260202-E029,2026-02-02,Asha,tiffin service,expense,rent,House rent,62,UPI,yes,116.0
+AS-20260203-E030,2026-02-03,Asha,tiffin service,expense,cooking_gas,LPG cylinder,40,UPI,yes,76.0
+AS-20260204-E031,2026-02-04,Asha,tiffin service,expense,mobile,Mobile recharge,30,UPI,yes,46.0
+AS-20260205-E033,2026-02-05,Asha,tiffin service,expense,vegetables,Vegetable market,189,cash,no,855.0
+AS-20260205-I032,2026-02-05,Asha,tiffin service,income,work_income,weekly tiffin collection,998,UPI,yes,1044.0
+AS-20260209-E034,2026-02-09,Asha,tiffin service,expense,food,Tea/snacks,63,cash,no,792.0
+AS-20260210-E035,2026-02-10,Asha,tiffin service,expense,transport,Bus/auto fare,72,cash,no,720.0
+AS-20260212-E037,2026-02-12,Asha,tiffin service,expense,electricity,Electricity bill,790,UPI,yes,1469.0
+AS-20260212-I036,2026-02-12,Asha,tiffin service,income,work_income,family tiffin payment,1539,cash,yes,2259.0
+AS-20260214-E038,2026-02-14,Asha,tiffin service,expense,electricity,Electricity bill,514,UPI,yes,955.0
+AS-20260216-E039,2026-02-16,Asha,tiffin service,expense,cooking_gas,LPG cylinder,334,UPI,yes,621.0
+AS-20260219-I040,2026-02-19,Asha,tiffin service,income,work_income,family tiffin payment,829,bank_transfer,yes,1450.0
+AS-20260222-E041,2026-02-22,Asha,tiffin service,expense,medicine,Pharmacy,480,UPI,no,970.0
+AS-20260225-E042,2026-02-25,Asha,tiffin service,expense,electricity,Electricity bill,339,UPI,yes,631.0
+AS-20260226-E044,2026-02-26,Asha,tiffin service,expense,medicine,Pharmacy,457,UPI,no,1091.0
+AS-20260226-E045,2026-02-26,Asha,tiffin service,expense,groceries,Kirana groceries,381,UPI,no,710.0
+AS-20260226-I043,2026-02-26,Asha,tiffin service,income,work_income,weekly tiffin collection,917,bank_transfer,yes,1548.0
+AS-20260227-E046,2026-02-27,Asha,tiffin service,expense,mobile,Mobile recharge,248,UPI,yes,462.0
+AS-20260301-E047,2026-03-01,Asha,tiffin service,expense,vegetables,Vegetable market,145,cash,no,317.0
+AS-20260303-E048,2026-03-03,Asha,tiffin service,expense,medicine,Pharmacy,110,UPI,no,207.0
+AS-20260305-E050,2026-03-05,Asha,tiffin service,expense,food,Tea/snacks,165,cash,no,820.0
+AS-20260305-I049,2026-03-05,Asha,tiffin service,income,work_income,weekly tiffin collection,778,bank_transfer,yes,985.0
+AS-20260306-E051,2026-03-06,Asha,tiffin service,expense,mobile,Mobile recharge,276,UPI,yes,544.0
+AS-20260307-E052,2026-03-07,Asha,tiffin service,expense,food,Tea/snacks,147,cash,no,397.0
+AS-20260308-E053,2026-03-08,Asha,tiffin service,expense,medicine,Pharmacy,138,UPI,no,259.0
+AS-20260309-E054,2026-03-09,Asha,tiffin service,expense,food,Tea/snacks,90,cash,no,169.0
+AS-20260310-E055,2026-03-10,Asha,tiffin service,expense,groceries,Kirana groceries,59,UPI,no,110.0
+AS-20260311-E056,2026-03-11,Asha,tiffin service,expense,transport,Bus/auto fare,38,cash,no,72.0
+AS-20260312-I057,2026-03-12,Asha,tiffin service,income,work_income,office lunch payment,924,UPI,yes,996.0
+AS-20260314-E058,2026-03-14,Asha,tiffin service,expense,medicine,Pharmacy,144,UPI,no,852.0
+AS-20260315-E059,2026-03-15,Asha,tiffin service,expense,electricity,Electricity bill,298,UPI,yes,554.0
+AS-20260315-E060,2026-03-15,Asha,tiffin service,expense,groceries,Kirana groceries,193,UPI,no,361.0
+AS-20260317-E061,2026-03-17,Asha,tiffin service,expense,vegetables,Vegetable market,126,cash,no,235.0
+AS-20260319-I062,2026-03-19,Asha,tiffin service,income,work_income,family tiffin payment,887,UPI,yes,1122.0
+AS-20260320-E063,2026-03-20,Asha,tiffin service,expense,medicine,Pharmacy,392,UPI,no,730.0
+AS-20260320-E064,2026-03-20,Asha,tiffin service,expense,transport,Bus/auto fare,64,cash,no,666.0
+AS-20260321-E065,2026-03-21,Asha,tiffin service,expense,medicine,Pharmacy,137,UPI,no,529.0
+AS-20260322-E066,2026-03-22,Asha,tiffin service,expense,mobile,Mobile recharge,185,UPI,yes,344.0
+AS-20260323-E067,2026-03-23,Asha,tiffin service,expense,school,School fees/supplies,120,UPI,no,224.0
+AS-20260324-E068,2026-03-24,Asha,tiffin service,expense,mobile,Mobile recharge,78,UPI,yes,146.0
+AS-20260325-E069,2026-03-25,Asha,tiffin service,expense,cooking_gas,LPG cylinder,51,UPI,yes,95.0
+AS-20260326-I070,2026-03-26,Asha,tiffin service,income,work_income,office lunch payment,924,bank_transfer,yes,1019.0
+AS-20260329-E071,2026-03-29,Asha,tiffin service,expense,medicine,Pharmacy,356,UPI,no,663.0
+AS-20260329-E072,2026-03-29,Asha,tiffin service,expense,cooking_gas,LPG cylinder,232,UPI,yes,431.0
+AS-20260330-E073,2026-03-30,Asha,tiffin service,expense,school,School fees/supplies,150,UPI,no,281.0
+AS-20260331-E074,2026-03-31,Asha,tiffin service,expense,transport,Bus/auto fare,98,cash,no,183.0
+AS-20260331-E075,2026-03-31,Asha,tiffin service,expense,electricity,Electricity bill,64,UPI,yes,119.0
+AS-20260401-E076,2026-04-01,Asha,tiffin service,expense,electricity,Electricity bill,41,UPI,yes,78.0
+AS-20260402-E077,2026-04-02,Asha,tiffin service,expense,transport,Bus/auto fare,30,cash,no,48.0
+AS-20260403-E078,2026-04-03,Asha,tiffin service,expense,cooking_gas,LPG cylinder,30,UPI,yes,18.0
+AS-20260405-E080,2026-04-05,Asha,tiffin service,expense,transport,Bus/auto fare,37,cash,no,842.0
+AS-20260405-I079,2026-04-05,Asha,tiffin service,income,work_income,weekly tiffin collection,861,cash,yes,879.0
+AS-20260406-E081,2026-04-06,Asha,tiffin service,expense,medicine,Pharmacy,135,UPI,no,707.0
+AS-20260407-E082,2026-04-07,Asha,tiffin service,expense,cooking_gas,LPG cylinder,247,UPI,yes,460.0
+AS-20260408-E083,2026-04-08,Asha,tiffin service,expense,food,Tea/snacks,69,cash,no,391.0
+AS-20260409-E084,2026-04-09,Asha,tiffin service,expense,cooking_gas,LPG cylinder,136,UPI,yes,255.0
+AS-20260409-E085,2026-04-09,Asha,tiffin service,expense,vegetables,Vegetable market,89,cash,no,166.0
+AS-20260410-E086,2026-04-10,Asha,tiffin service,expense,cooking_gas,LPG cylinder,58,UPI,yes,108.0
+AS-20260411-E087,2026-04-11,Asha,tiffin service,expense,groceries,Kirana groceries,37,UPI,no,71.0
+AS-20260411-E088,2026-04-11,Asha,tiffin service,expense,transport,Bus/auto fare,30,cash,no,41.0
+AS-20260412-E090,2026-04-12,Asha,tiffin service,expense,medicine,Pharmacy,319,UPI,no,871.0
+AS-20260412-I089,2026-04-12,Asha,tiffin service,income,work_income,family tiffin payment,1149,UPI,yes,1190.0
+AS-20260414-E091,2026-04-14,Asha,tiffin service,expense,medicine,Pharmacy,304,UPI,no,567.0
+AS-20260414-E092,2026-04-14,Asha,tiffin service,expense,vegetables,Vegetable market,94,cash,no,473.0
+AS-20260416-E093,2026-04-16,Asha,tiffin service,expense,medicine,Pharmacy,165,UPI,no,308.0
+AS-20260416-E094,2026-04-16,Asha,tiffin service,expense,cooking_gas,LPG cylinder,107,UPI,yes,201.0
+AS-20260418-E095,2026-04-18,Asha,tiffin service,expense,transport,Bus/auto fare,70,cash,no,131.0
+AS-20260419-E097,2026-04-19,Asha,tiffin service,expense,cooking_gas,LPG cylinder,371,UPI,yes,689.0
+AS-20260419-I096,2026-04-19,Asha,tiffin service,income,work_income,weekly tiffin collection,929,UPI,yes,1060.0
+AS-20260421-E098,2026-04-21,Asha,tiffin service,expense,vegetables,Vegetable market,139,cash,no,550.0
+AS-20260421-E099,2026-04-21,Asha,tiffin service,expense,school,School fees/supplies,192,UPI,no,358.0
+AS-20260422-E100,2026-04-22,Asha,tiffin service,expense,school,School fees/supplies,125,UPI,no,233.0
+AS-20260423-E101,2026-04-23,Asha,tiffin service,expense,cooking_gas,LPG cylinder,81,UPI,yes,152.0
+AS-20260425-E102,2026-04-25,Asha,tiffin service,expense,food,Tea/snacks,53,cash,no,99.0
+AS-20260426-E104,2026-04-26,Asha,tiffin service,expense,vegetables,Vegetable market,192,cash,no,704.0
+AS-20260426-E105,2026-04-26,Asha,tiffin service,expense,transport,Bus/auto fare,107,cash,no,597.0
+AS-20260426-I103,2026-04-26,Asha,tiffin service,income,work_income,weekly tiffin collection,797,bank_transfer,yes,896.0
+AS-20260427-E106,2026-04-27,Asha,tiffin service,expense,mobile,Mobile recharge,208,UPI,yes,389.0
+AS-20260429-E107,2026-04-29,Asha,tiffin service,expense,vegetables,Vegetable market,124,cash,no,265.0
+AS-20260430-E108,2026-04-30,Asha,tiffin service,expense,electricity,Electricity bill,92,UPI,yes,173.0
+AS-20260430-E109,2026-04-30,Asha,tiffin service,expense,electricity,Electricity bill,60,UPI,yes,113.0
+AS-20260501-E110,2026-05-01,Asha,tiffin service,expense,transport,Bus/auto fare,39,cash,no,74.0
+AS-20260502-E111,2026-05-02,Asha,tiffin service,expense,food,Tea/snacks,30,cash,no,44.0
+AS-20260504-E112,2026-05-04,Asha,tiffin service,expense,groceries,Kirana groceries,30,UPI,no,14.0
+AS-20260505-I113,2026-05-05,Asha,tiffin service,income,work_income,family tiffin payment,1024,UPI,yes,1038.0
+AS-20260506-E114,2026-05-06,Asha,tiffin service,expense,medicine,Pharmacy,363,UPI,no,675.0
+AS-20260507-E115,2026-05-07,Asha,tiffin service,expense,electricity,Electricity bill,236,UPI,yes,439.0
+AS-20260508-E116,2026-05-08,Asha,tiffin service,expense,school,School fees/supplies,153,UPI,no,286.0
+AS-20260509-E117,2026-05-09,Asha,tiffin service,expense,transport,Bus/auto fare,100,cash,no,186.0
+AS-20260510-E118,2026-05-10,Asha,tiffin service,expense,cooking_gas,LPG cylinder,65,UPI,yes,121.0
+AS-20260511-E119,2026-05-11,Asha,tiffin service,expense,cooking_gas,LPG cylinder,42,UPI,yes,79.0
+AS-20260511-E120,2026-05-11,Asha,tiffin service,expense,school,School fees/supplies,30,UPI,no,49.0
+AS-20260512-E122,2026-05-12,Asha,tiffin service,expense,vegetables,Vegetable market,128,cash,no,857.0
+AS-20260512-I121,2026-05-12,Asha,tiffin service,income,work_income,family tiffin payment,936,cash,yes,985.0
+AS-20260513-E123,2026-05-13,Asha,tiffin service,expense,groceries,Kirana groceries,299,UPI,no,558.0
+AS-20260516-E124,2026-05-16,Asha,tiffin service,expense,transport,Bus/auto fare,113,cash,no,445.0
+AS-20260516-E125,2026-05-16,Asha,tiffin service,expense,food,Tea/snacks,110,cash,no,335.0
+AS-20260518-E126,2026-05-18,Asha,tiffin service,expense,medicine,Pharmacy,117,UPI,no,218.0
+AS-20260518-E127,2026-05-18,Asha,tiffin service,expense,vegetables,Vegetable market,76,cash,no,142.0
+AS-20260519-E129,2026-05-19,Asha,tiffin service,expense,medicine,Pharmacy,282,UPI,no,525.0
+AS-20260519-I128,2026-05-19,Asha,tiffin service,income,work_income,office lunch payment,665,UPI,yes,807.0
+AS-20260520-E130,2026-05-20,Asha,tiffin service,expense,school,School fees/supplies,183,UPI,no,342.0
+AS-20260524-E131,2026-05-24,Asha,tiffin service,expense,food,Tea/snacks,119,cash,no,223.0
+AS-20260525-E132,2026-05-25,Asha,tiffin service,expense,vegetables,Vegetable market,78,cash,no,145.0
+AS-20260526-I133,2026-05-26,Asha,tiffin service,income,work_income,family tiffin payment,892,bank_transfer,yes,1037.0
+AS-20260527-E134,2026-05-27,Asha,tiffin service,expense,transport,Bus/auto fare,54,cash,no,983.0
+AS-20260528-E135,2026-05-28,Asha,tiffin service,expense,cooking_gas,LPG cylinder,344,UPI,yes,639.0
+AS-20260601-E136,2026-06-01,Asha,tiffin service,expense,cooking_gas,LPG cylinder,223,UPI,yes,416.0
+AS-20260602-E137,2026-06-02,Asha,tiffin service,expense,rent,House rent,145,UPI,yes,271.0
+AS-20260603-E138,2026-06-03,Asha,tiffin service,expense,transport,Bus/auto fare,94,cash,no,177.0
+AS-20260605-E140,2026-06-05,Asha,tiffin service,expense,medicine,Pharmacy,117,UPI,no,955.0
+AS-20260605-I139,2026-06-05,Asha,tiffin service,income,work_income,family tiffin payment,895,cash,yes,1072.0
+AS-20260606-E141,2026-06-06,Asha,tiffin service,expense,school,School fees/supplies,334,UPI,no,621.0
+AS-20260607-E142,2026-06-07,Asha,tiffin service,expense,groceries,Kirana groceries,217,UPI,no,404.0
+AS-20260607-E143,2026-06-07,Asha,tiffin service,expense,medicine,Pharmacy,141,UPI,no,263.0
+AS-20260611-E144,2026-06-11,Asha,tiffin service,expense,food,Tea/snacks,92,cash,no,171.0
+AS-20260612-E146,2026-06-12,Asha,tiffin service,expense,transport,Bus/auto fare,92,cash,no,903.0
+AS-20260612-I145,2026-06-12,Asha,tiffin service,income,work_income,family tiffin payment,824,cash,yes,995.0
+AS-20260613-E147,2026-06-13,Asha,tiffin service,expense,vegetables,Vegetable market,108,cash,no,795.0
+AS-20260613-E148,2026-06-13,Asha,tiffin service,expense,groceries,Kirana groceries,278,UPI,no,517.0
+AS-20260614-E149,2026-06-14,Asha,tiffin service,expense,mobile,Mobile recharge,180,UPI,yes,337.0
+AS-20260615-E150,2026-06-15,Asha,tiffin service,expense,medicine,Pharmacy,117,UPI,no,220.0
+AS-20260618-E151,2026-06-18,Asha,tiffin service,expense,medicine,Pharmacy,77,UPI,no,143.0
+AS-20260618-E152,2026-06-18,Asha,tiffin service,expense,cooking_gas,LPG cylinder,50,UPI,yes,93.0
+AS-20260619-E154,2026-06-19,Asha,tiffin service,expense,mobile,Mobile recharge,270,UPI,yes,629.0
+AS-20260619-I153,2026-06-19,Asha,tiffin service,income,work_income,family tiffin payment,806,cash,yes,899.0
+AS-20260620-E155,2026-06-20,Asha,tiffin service,expense,electricity,Electricity bill,220,UPI,yes,409.0
+AS-20260621-E156,2026-06-21,Asha,tiffin service,expense,medicine,Pharmacy,143,UPI,no,266.0
+AS-20260622-E157,2026-06-22,Asha,tiffin service,expense,electricity,Electricity bill,93,UPI,yes,173.0
+AS-20260623-E158,2026-06-23,Asha,tiffin service,expense,school,School fees/supplies,60,UPI,no,113.0
+AS-20260626-E160,2026-06-26,Asha,tiffin service,expense,cooking_gas,LPG cylinder,397,UPI,yes,739.0
+AS-20260626-I159,2026-06-26,Asha,tiffin service,income,work_income,office lunch payment,1023,UPI,yes,1136.0
+AS-20260627-E161,2026-06-27,Asha,tiffin service,expense,mobile,Mobile recharge,250,UPI,yes,489.0
+AS-20260629-E162,2026-06-29,Asha,tiffin service,expense,electricity,Electricity bill,171,UPI,yes,318.0
+AS-20260630-E163,2026-06-30,Asha,tiffin service,expense,mobile,Mobile recharge,111,UPI,yes,207.0
+ME-20260101-E001,2026-01-01,Meena,beautician,expense,mobile,Mobile recharge,362,UPI,yes,5438.0
+ME-20260101-E002,2026-01-01,Meena,beautician,expense,mobile,Mobile recharge,212,UPI,yes,5226.0
+ME-20260102-E003,2026-01-02,Meena,beautician,expense,medicine,Pharmacy,202,UPI,no,5024.0
+ME-20260104-E005,2026-01-04,Meena,beautician,expense,electricity,Electricity bill,828,UPI,yes,5010.0
+ME-20260104-I004,2026-01-04,Meena,beautician,income,work_income,bridal makeup advance,814,bank_transfer,yes,5838.0
+ME-20260105-E006,2026-01-05,Meena,beautician,expense,vegetables,Vegetable market,206,cash,no,4804.0
+ME-20260106-E007,2026-01-06,Meena,beautician,expense,groceries,Kirana groceries,647,UPI,no,4157.0
+ME-20260108-E008,2026-01-08,Meena,beautician,expense,groceries,Kirana groceries,608,UPI,no,3549.0
+ME-20260109-E009,2026-01-09,Meena,beautician,expense,electricity,Electricity bill,1242,UPI,yes,2307.0
+ME-20260110-E010,2026-01-10,Meena,beautician,expense,food,Tea/snacks,57,cash,no,2250.0
+ME-20260111-I011,2026-01-11,Meena,beautician,income,work_income,bridal makeup advance,741,bank_transfer,yes,2991.0
+ME-20260112-E012,2026-01-12,Meena,beautician,expense,medicine,Pharmacy,379,UPI,no,2612.0
+ME-20260113-E013,2026-01-13,Meena,beautician,expense,transport,Bus/auto fare,147,cash,no,2465.0
+ME-20260114-E014,2026-01-14,Meena,beautician,expense,groceries,Kirana groceries,557,UPI,no,1908.0
+ME-20260115-E015,2026-01-15,Meena,beautician,expense,mobile,Mobile recharge,243,UPI,yes,1665.0
+ME-20260116-E016,2026-01-16,Meena,beautician,expense,school,School fees/supplies,582,UPI,no,1083.0
+ME-20260117-E017,2026-01-17,Meena,beautician,expense,school,School fees/supplies,379,UPI,no,704.0
+ME-20260118-E019,2026-01-18,Meena,beautician,expense,electricity,Electricity bill,598,UPI,yes,1113.0
+ME-20260118-I018,2026-01-18,Meena,beautician,income,work_income,home salon payment,1007,UPI,yes,1711.0
+ME-20260119-E020,2026-01-19,Meena,beautician,expense,food,Tea/snacks,32,cash,no,1081.0
+ME-20260120-E021,2026-01-20,Meena,beautician,expense,mobile,Mobile recharge,214,UPI,yes,867.0
+ME-20260121-E022,2026-01-21,Meena,beautician,expense,transport,Bus/auto fare,133,cash,no,734.0
+ME-20260122-E023,2026-01-22,Meena,beautician,expense,electricity,Electricity bill,256,UPI,yes,478.0
+ME-20260122-E024,2026-01-22,Meena,beautician,expense,vegetables,Vegetable market,135,cash,no,343.0
+ME-20260123-E025,2026-01-23,Meena,beautician,expense,transport,Bus/auto fare,120,cash,no,223.0
+ME-20260124-E026,2026-01-24,Meena,beautician,expense,food,Tea/snacks,78,cash,no,145.0
+ME-20260125-I027,2026-01-25,Meena,beautician,income,work_income,beauty service payment,926,bank_transfer,yes,1071.0
+ME-20260129-E028,2026-01-29,Meena,beautician,expense,vegetables,Vegetable market,194,cash,no,877.0
+ME-20260130-E029,2026-01-30,Meena,beautician,expense,vegetables,Vegetable market,204,cash,no,673.0
+ME-20260201-E030,2026-02-01,Meena,beautician,expense,transport,Bus/auto fare,113,cash,no,560.0
+ME-20260203-E031,2026-02-03,Meena,beautician,expense,food,Tea/snacks,155,cash,no,405.0
+ME-20260204-E033,2026-02-04,Meena,beautician,expense,groceries,Kirana groceries,443,UPI,no,823.0
+ME-20260204-I032,2026-02-04,Meena,beautician,income,work_income,bridal makeup advance,861,UPI,yes,1266.0
+ME-20260205-E034,2026-02-05,Meena,beautician,expense,groceries,Kirana groceries,288,UPI,no,535.0
+ME-20260206-E035,2026-02-06,Meena,beautician,expense,mobile,Mobile recharge,187,UPI,yes,348.0
+ME-20260207-E036,2026-02-07,Meena,beautician,expense,vegetables,Vegetable market,121,cash,no,227.0
+ME-20260210-E037,2026-02-10,Meena,beautician,expense,groceries,Kirana groceries,79,UPI,no,148.0
+ME-20260210-E038,2026-02-10,Meena,beautician,expense,school,School fees/supplies,51,UPI,no,97.0
+ME-20260211-E040,2026-02-11,Meena,beautician,expense,school,School fees/supplies,321,UPI,no,597.0
+ME-20260211-I039,2026-02-11,Meena,beautician,income,work_income,beauty service payment,821,cash,yes,918.0
+ME-20260215-E041,2026-02-15,Meena,beautician,expense,vegetables,Vegetable market,105,cash,no,492.0
+ME-20260216-E042,2026-02-16,Meena,beautician,expense,mobile,Mobile recharge,172,UPI,yes,320.0
+ME-20260218-E044,2026-02-18,Meena,beautician,expense,medicine,Pharmacy,417,UPI,no,775.0
+ME-20260218-I043,2026-02-18,Meena,beautician,income,work_income,bridal makeup advance,872,cash,yes,1192.0
+ME-20260219-E045,2026-02-19,Meena,beautician,expense,vegetables,Vegetable market,68,cash,no,707.0
+ME-20260221-E046,2026-02-21,Meena,beautician,expense,groceries,Kirana groceries,247,UPI,no,460.0
+ME-20260222-E047,2026-02-22,Meena,beautician,expense,groceries,Kirana groceries,161,UPI,no,299.0
+ME-20260223-E048,2026-02-23,Meena,beautician,expense,groceries,Kirana groceries,104,UPI,no,195.0
+ME-20260225-E050,2026-02-25,Meena,beautician,expense,groceries,Kirana groceries,251,UPI,no,677.0
+ME-20260225-I049,2026-02-25,Meena,beautician,income,work_income,home salon payment,733,cash,yes,928.0
+ME-20260227-E051,2026-02-27,Meena,beautician,expense,food,Tea/snacks,111,cash,no,566.0
+ME-20260227-E052,2026-02-27,Meena,beautician,expense,food,Tea/snacks,112,cash,no,454.0
+ME-20260228-E053,2026-02-28,Meena,beautician,expense,mobile,Mobile recharge,158,UPI,yes,296.0
+ME-20260301-E054,2026-03-01,Meena,beautician,expense,food,Tea/snacks,74,cash,no,222.0
+ME-20260302-E055,2026-03-02,Meena,beautician,expense,medicine,Pharmacy,77,UPI,no,145.0
+ME-20260304-E057,2026-03-04,Meena,beautician,expense,school,School fees/supplies,366,UPI,no,682.0
+ME-20260304-I056,2026-03-04,Meena,beautician,income,work_income,bridal makeup advance,903,cash,yes,1048.0
+ME-20260306-E058,2026-03-06,Meena,beautician,expense,electricity,Electricity bill,238,UPI,yes,444.0
+ME-20260307-E059,2026-03-07,Meena,beautician,expense,groceries,Kirana groceries,155,UPI,no,289.0
+ME-20260309-E060,2026-03-09,Meena,beautician,expense,mobile,Mobile recharge,101,UPI,yes,188.0
+ME-20260310-E061,2026-03-10,Meena,beautician,expense,cooking_gas,LPG cylinder,65,UPI,yes,123.0
+ME-20260311-E063,2026-03-11,Meena,beautician,expense,food,Tea/snacks,40,cash,no,774.0
+ME-20260311-I062,2026-03-11,Meena,beautician,income,work_income,home salon payment,691,UPI,yes,814.0
+ME-20260314-E064,2026-03-14,Meena,beautician,expense,cooking_gas,LPG cylinder,270,UPI,yes,504.0
+ME-20260316-E065,2026-03-16,Meena,beautician,expense,vegetables,Vegetable market,176,cash,no,328.0
+ME-20260316-E066,2026-03-16,Meena,beautician,expense,mobile,Mobile recharge,114,UPI,yes,214.0
+ME-20260317-E067,2026-03-17,Meena,beautician,expense,mobile,Mobile recharge,74,UPI,yes,140.0
+ME-20260318-E069,2026-03-18,Meena,beautician,expense,medicine,Pharmacy,297,UPI,no,554.0
+ME-20260318-I068,2026-03-18,Meena,beautician,income,work_income,beauty service payment,711,bank_transfer,yes,851.0
+ME-20260319-E070,2026-03-19,Meena,beautician,expense,medicine,Pharmacy,193,UPI,no,361.0
+ME-20260319-E071,2026-03-19,Meena,beautician,expense,mobile,Mobile recharge,126,UPI,yes,235.0
+ME-20260320-E072,2026-03-20,Meena,beautician,expense,mobile,Mobile recharge,82,UPI,yes,153.0
+ME-20260321-E073,2026-03-21,Meena,beautician,expense,food,Tea/snacks,53,cash,no,100.0
+ME-20260323-E074,2026-03-23,Meena,beautician,expense,mobile,Mobile recharge,35,UPI,yes,65.0
+ME-20260325-E076,2026-03-25,Meena,beautician,expense,medicine,Pharmacy,313,UPI,no,583.0
+ME-20260325-I075,2026-03-25,Meena,beautician,income,work_income,beauty service payment,831,bank_transfer,yes,896.0
+ME-20260326-E077,2026-03-26,Meena,beautician,expense,transport,Bus/auto fare,65,cash,no,518.0
+ME-20260328-E078,2026-03-28,Meena,beautician,expense,groceries,Kirana groceries,181,UPI,no,337.0
+ME-20260329-E079,2026-03-29,Meena,beautician,expense,groceries,Kirana groceries,117,UPI,no,220.0
+ME-20260330-E080,2026-03-30,Meena,beautician,expense,mobile,Mobile recharge,77,UPI,yes,143.0
+ME-20260401-E081,2026-04-01,Meena,beautician,expense,food,Tea/snacks,50,cash,no,93.0
+ME-20260402-E082,2026-04-02,Meena,beautician,expense,rent,House rent,32,UPI,yes,61.0
+ME-20260403-E083,2026-04-03,Meena,beautician,expense,electricity,Electricity bill,30,UPI,yes,31.0
+ME-20260404-I084,2026-04-04,Meena,beautician,income,work_income,beauty service payment,770,bank_transfer,yes,801.0
+ME-20260406-E085,2026-04-06,Meena,beautician,expense,transport,Bus/auto fare,91,cash,no,710.0
+ME-20260407-E086,2026-04-07,Meena,beautician,expense,cooking_gas,LPG cylinder,248,UPI,yes,462.0
+ME-20260409-E087,2026-04-09,Meena,beautician,expense,medicine,Pharmacy,161,UPI,no,301.0
+ME-20260409-E088,2026-04-09,Meena,beautician,expense,mobile,Mobile recharge,105,UPI,yes,196.0
+ME-20260410-E089,2026-04-10,Meena,beautician,expense,vegetables,Vegetable market,68,cash,no,128.0
+ME-20260411-E091,2026-04-11,Meena,beautician,expense,groceries,Kirana groceries,306,UPI,no,569.0
+ME-20260411-I090,2026-04-11,Meena,beautician,income,work_income,bridal makeup advance,747,bank_transfer,yes,875.0
+ME-20260412-E092,2026-04-12,Meena,beautician,expense,school,School fees/supplies,199,UPI,no,370.0
+ME-20260414-E093,2026-04-14,Meena,beautician,expense,vegetables,Vegetable market,129,cash,no,241.0
+ME-20260414-E094,2026-04-14,Meena,beautician,expense,groceries,Kirana groceries,84,UPI,no,157.0
+ME-20260415-E095,2026-04-15,Meena,beautician,expense,food,Tea/snacks,54,cash,no,103.0
+ME-20260415-E096,2026-04-15,Meena,beautician,expense,electricity,Electricity bill,36,UPI,yes,67.0
+ME-20260418-I097,2026-04-18,Meena,beautician,income,work_income,bridal makeup advance,724,UPI,yes,791.0
+ME-20260419-E098,2026-04-19,Meena,beautician,expense,school,School fees/supplies,276,UPI,no,515.0
+ME-20260420-E099,2026-04-20,Meena,beautician,expense,food,Tea/snacks,129,cash,no,386.0
+ME-20260421-E100,2026-04-21,Meena,beautician,expense,school,School fees/supplies,135,UPI,no,251.0
+ME-20260424-E101,2026-04-24,Meena,beautician,expense,cooking_gas,LPG cylinder,87,UPI,yes,164.0
+ME-20260425-E103,2026-04-25,Meena,beautician,expense,food,Tea/snacks,131,cash,no,772.0
+ME-20260425-I102,2026-04-25,Meena,beautician,income,work_income,home salon payment,739,UPI,yes,903.0
+ME-20260427-E104,2026-04-27,Meena,beautician,expense,medicine,Pharmacy,270,UPI,no,502.0
+ME-20260428-E105,2026-04-28,Meena,beautician,expense,school,School fees/supplies,175,UPI,no,327.0
+ME-20260429-E106,2026-04-29,Meena,beautician,expense,school,School fees/supplies,114,UPI,no,213.0
+ME-20260501-E107,2026-05-01,Meena,beautician,expense,vegetables,Vegetable market,74,cash,no,139.0
+ME-20260502-E108,2026-05-02,Meena,beautician,expense,transport,Bus/auto fare,48,cash,no,91.0
+ME-20260503-E109,2026-05-03,Meena,beautician,expense,groceries,Kirana groceries,31,UPI,no,60.0
+ME-20260504-I110,2026-05-04,Meena,beautician,income,work_income,home salon payment,575,UPI,yes,635.0
+ME-20260505-E111,2026-05-05,Meena,beautician,expense,cooking_gas,LPG cylinder,222,UPI,yes,413.0
+ME-20260506-E112,2026-05-06,Meena,beautician,expense,cooking_gas,LPG cylinder,144,UPI,yes,269.0
+ME-20260507-E113,2026-05-07,Meena,beautician,expense,vegetables,Vegetable market,94,cash,no,175.0
+ME-20260510-E114,2026-05-10,Meena,beautician,expense,school,School fees/supplies,61,UPI,no,114.0
+ME-20260511-E116,2026-05-11,Meena,beautician,expense,school,School fees/supplies,324,UPI,no,603.0
+ME-20260511-I115,2026-05-11,Meena,beautician,income,work_income,bridal makeup advance,813,bank_transfer,yes,927.0
+ME-20260512-E117,2026-05-12,Meena,beautician,expense,vegetables,Vegetable market,152,cash,no,451.0
+ME-20260513-E118,2026-05-13,Meena,beautician,expense,medicine,Pharmacy,157,UPI,no,294.0
+ME-20260514-E119,2026-05-14,Meena,beautician,expense,transport,Bus/auto fare,102,cash,no,192.0
+ME-20260515-E120,2026-05-15,Meena,beautician,expense,food,Tea/snacks,67,cash,no,125.0
+ME-20260517-E121,2026-05-17,Meena,beautician,expense,food,Tea/snacks,43,cash,no,82.0
+ME-20260518-E123,2026-05-18,Meena,beautician,expense,cooking_gas,LPG cylinder,274,UPI,yes,511.0
+ME-20260518-I122,2026-05-18,Meena,beautician,income,work_income,bridal makeup advance,703,bank_transfer,yes,785.0
+ME-20260520-E124,2026-05-20,Meena,beautician,expense,mobile,Mobile recharge,178,UPI,yes,333.0
+ME-20260520-E125,2026-05-20,Meena,beautician,expense,school,School fees/supplies,116,UPI,no,217.0
+ME-20260522-E126,2026-05-22,Meena,beautician,expense,food,Tea/snacks,75,cash,no,142.0
+ME-20260524-E127,2026-05-24,Meena,beautician,expense,mobile,Mobile recharge,49,UPI,yes,93.0
+ME-20260525-I128,2026-05-25,Meena,beautician,income,work_income,beauty service payment,892,UPI,yes,985.0
+ME-20260527-E129,2026-05-27,Meena,beautician,expense,electricity,Electricity bill,344,UPI,yes,641.0
+ME-20260528-E130,2026-05-28,Meena,beautician,expense,school,School fees/supplies,224,UPI,no,417.0
+ME-20260529-E131,2026-05-29,Meena,beautician,expense,food,Tea/snacks,145,cash,no,272.0
+ME-20260530-E132,2026-05-30,Meena,beautician,expense,school,School fees/supplies,95,UPI,no,177.0
+ME-20260531-E133,2026-05-31,Meena,beautician,expense,food,Tea/snacks,51,cash,no,126.0
+ME-20260601-E134,2026-06-01,Meena,beautician,expense,cooking_gas,LPG cylinder,44,UPI,yes,82.0
+ME-20260602-E135,2026-06-02,Meena,beautician,expense,school,School fees/supplies,30,UPI,no,52.0
+ME-20260603-E136,2026-06-03,Meena,beautician,expense,vegetables,Vegetable market,30,cash,no,22.0
+ME-20260604-E138,2026-06-04,Meena,beautician,expense,cooking_gas,LPG cylinder,292,UPI,yes,543.0
+ME-20260604-I137,2026-06-04,Meena,beautician,income,work_income,beauty service payment,813,cash,yes,835.0
+ME-20260606-E139,2026-06-06,Meena,beautician,expense,medicine,Pharmacy,190,UPI,no,353.0
+ME-20260606-E140,2026-06-06,Meena,beautician,expense,electricity,Electricity bill,123,UPI,yes,230.0
+ME-20260608-E141,2026-06-08,Meena,beautician,expense,transport,Bus/auto fare,80,cash,no,150.0
+ME-20260609-E142,2026-06-09,Meena,beautician,expense,mobile,Mobile recharge,52,UPI,yes,98.0
+ME-20260610-E143,2026-06-10,Meena,beautician,expense,medicine,Pharmacy,34,UPI,no,64.0
+ME-20260611-I144,2026-06-11,Meena,beautician,income,work_income,bridal makeup advance,795,UPI,yes,859.0
+ME-20260612-E145,2026-06-12,Meena,beautician,expense,vegetables,Vegetable market,102,cash,no,757.0
+ME-20260615-E146,2026-06-15,Meena,beautician,expense,cooking_gas,LPG cylinder,264,UPI,yes,493.0
+ME-20260616-E147,2026-06-16,Meena,beautician,expense,school,School fees/supplies,172,UPI,no,321.0
+ME-20260617-E148,2026-06-17,Meena,beautician,expense,school,School fees/supplies,112,UPI,no,209.0
+ME-20260618-E150,2026-06-18,Meena,beautician,expense,mobile,Mobile recharge,270,UPI,yes,838.0
+ME-20260618-I149,2026-06-18,Meena,beautician,income,work_income,beauty service payment,899,bank_transfer,yes,1108.0
+ME-20260622-E151,2026-06-22,Meena,beautician,expense,medicine,Pharmacy,216,UPI,no,622.0
+ME-20260623-E152,2026-06-23,Meena,beautician,expense,cooking_gas,LPG cylinder,217,UPI,yes,405.0
+ME-20260624-E153,2026-06-24,Meena,beautician,expense,vegetables,Vegetable market,141,cash,no,264.0
+ME-20260625-E155,2026-06-25,Meena,beautician,expense,electricity,Electricity bill,364,UPI,yes,678.0
+ME-20260625-I154,2026-06-25,Meena,beautician,income,work_income,bridal makeup advance,778,cash,yes,1042.0
+ME-20260626-E156,2026-06-26,Meena,beautician,expense,transport,Bus/auto fare,110,cash,no,568.0
+ME-20260627-E157,2026-06-27,Meena,beautician,expense,transport,Bus/auto fare,125,cash,no,443.0
+ME-20260628-E158,2026-06-28,Meena,beautician,expense,school,School fees/supplies,155,UPI,no,288.0
+ME-20260629-E159,2026-06-29,Meena,beautician,expense,transport,Bus/auto fare,100,cash,no,188.0
+ME-20260630-E160,2026-06-30,Meena,beautician,expense,transport,Bus/auto fare,65,cash,no,123.0
+RA-20260101-I001,2026-01-01,Radha,tailoring,income,work_income,dress alteration,389,UPI,yes,4589.0
+RA-20260102-E002,2026-01-02,Radha,tailoring,expense,vegetables,Vegetable market,211,cash,no,4378.0
+RA-20260102-E003,2026-01-02,Radha,tailoring,expense,school,School fees/supplies,332,UPI,no,4046.0
+RA-20260105-E004,2026-01-05,Radha,tailoring,expense,electricity,Electricity bill,1328,UPI,yes,2718.0
+RA-20260108-E006,2026-01-08,Radha,tailoring,expense,cooking_gas,LPG cylinder,902,UPI,yes,2203.0
+RA-20260108-I005,2026-01-08,Radha,tailoring,income,work_income,school uniform stitching,387,bank_transfer,yes,3105.0
+RA-20260109-E007,2026-01-09,Radha,tailoring,expense,cooking_gas,LPG cylinder,771,UPI,yes,1432.0
+RA-20260110-E008,2026-01-10,Radha,tailoring,expense,medicine,Pharmacy,501,UPI,no,931.0
+RA-20260111-E009,2026-01-11,Radha,tailoring,expense,vegetables,Vegetable market,201,cash,no,730.0
+RA-20260111-E010,2026-01-11,Radha,tailoring,expense,electricity,Electricity bill,255,UPI,yes,475.0
+RA-20260112-E011,2026-01-12,Radha,tailoring,expense,cooking_gas,LPG cylinder,166,UPI,yes,309.0
+RA-20260112-E012,2026-01-12,Radha,tailoring,expense,mobile,Mobile recharge,108,UPI,yes,201.0
+RA-20260113-E013,2026-01-13,Radha,tailoring,expense,electricity,Electricity bill,70,UPI,yes,131.0
+RA-20260115-E015,2026-01-15,Radha,tailoring,expense,electricity,Electricity bill,203,UPI,yes,377.0
+RA-20260115-I014,2026-01-15,Radha,tailoring,income,work_income,salwar stitching,449,UPI,yes,580.0
+RA-20260117-E016,2026-01-17,Radha,tailoring,expense,transport,Bus/auto fare,131,cash,no,246.0
+RA-20260120-E017,2026-01-20,Radha,tailoring,expense,groceries,Kirana groceries,86,UPI,no,160.0
+RA-20260122-E019,2026-01-22,Radha,tailoring,expense,food,Tea/snacks,110,cash,no,395.0
+RA-20260122-E020,2026-01-22,Radha,tailoring,expense,mobile,Mobile recharge,138,UPI,yes,257.0
+RA-20260122-I018,2026-01-22,Radha,tailoring,income,work_income,school uniform stitching,345,bank_transfer,yes,505.0
+RA-20260123-E021,2026-01-23,Radha,tailoring,expense,medicine,Pharmacy,89,UPI,no,168.0
+RA-20260123-E022,2026-01-23,Radha,tailoring,expense,electricity,Electricity bill,58,UPI,yes,110.0
+RA-20260124-E023,2026-01-24,Radha,tailoring,expense,electricity,Electricity bill,38,UPI,yes,72.0
+RA-20260125-E024,2026-01-25,Radha,tailoring,expense,school,School fees/supplies,30,UPI,no,42.0
+RA-20260125-E025,2026-01-25,Radha,tailoring,expense,mobile,Mobile recharge,30,UPI,yes,12.0
+RA-20260126-E026,2026-01-26,Radha,tailoring,expense,groceries,Kirana groceries,30,UPI,no,-18.0
+RA-20260127-E027,2026-01-27,Radha,tailoring,expense,school,School fees/supplies,30,UPI,no,-48.0
+RA-20260128-I028,2026-01-28,Radha,tailoring,income,work_income,salwar stitching,468,cash,yes,420.0
+RA-20260201-E030,2026-02-01,Radha,tailoring,expense,electricity,Electricity bill,297,UPI,yes,552.0
+RA-20260201-I029,2026-02-01,Radha,tailoring,income,work_income,salwar stitching,429,bank_transfer,yes,849.0
+RA-20260202-E031,2026-02-02,Radha,tailoring,expense,vegetables,Vegetable market,193,cash,no,359.0
+RA-20260203-E032,2026-02-03,Radha,tailoring,expense,food,Tea/snacks,80,cash,no,279.0
+RA-20260208-E034,2026-02-08,Radha,tailoring,expense,food,Tea/snacks,50,cash,no,558.0
+RA-20260208-I033,2026-02-08,Radha,tailoring,income,work_income,salwar stitching,329,bank_transfer,yes,608.0
+RA-20260209-E035,2026-02-09,Radha,tailoring,expense,vegetables,Vegetable market,195,cash,no,363.0
+RA-20260212-E036,2026-02-12,Radha,tailoring,expense,food,Tea/snacks,127,cash,no,236.0
+RA-20260215-E038,2026-02-15,Radha,tailoring,expense,cooking_gas,LPG cylinder,204,UPI,yes,381.0
+RA-20260215-I037,2026-02-15,Radha,tailoring,income,work_income,dress alteration,349,cash,yes,585.0
+RA-20260216-E039,2026-02-16,Radha,tailoring,expense,vegetables,Vegetable market,133,cash,no,248.0
+RA-20260217-E040,2026-02-17,Radha,tailoring,expense,food,Tea/snacks,86,cash,no,162.0
+RA-20260218-E041,2026-02-18,Radha,tailoring,expense,groceries,Kirana groceries,56,UPI,no,106.0
+RA-20260219-E042,2026-02-19,Radha,tailoring,expense,cooking_gas,LPG cylinder,37,UPI,yes,69.0
+RA-20260220-E043,2026-02-20,Radha,tailoring,expense,medicine,Pharmacy,30,UPI,no,39.0
+RA-20260221-E044,2026-02-21,Radha,tailoring,expense,food,Tea/snacks,30,cash,no,9.0
+RA-20260222-E046,2026-02-22,Radha,tailoring,expense,school,School fees/supplies,98,UPI,no,182.0
+RA-20260222-I045,2026-02-22,Radha,tailoring,income,work_income,dress alteration,271,UPI,yes,280.0
+RA-20260223-E047,2026-02-23,Radha,tailoring,expense,vegetables,Vegetable market,63,cash,no,119.0
+RA-20260224-E048,2026-02-24,Radha,tailoring,expense,vegetables,Vegetable market,41,cash,no,78.0
+RA-20260225-E049,2026-02-25,Radha,tailoring,expense,transport,Bus/auto fare,30,cash,no,48.0
+RA-20260226-E050,2026-02-26,Radha,tailoring,expense,vegetables,Vegetable market,30,cash,no,18.0
+RA-20260228-E052,2026-02-28,Radha,tailoring,expense,groceries,Kirana groceries,154,UPI,no,286.0
+RA-20260228-I051,2026-02-28,Radha,tailoring,income,work_income,blouse stitching,422,UPI,yes,440.0
+RA-20260301-E054,2026-03-01,Radha,tailoring,expense,groceries,Kirana groceries,264,UPI,no,552.0
+RA-20260301-I053,2026-03-01,Radha,tailoring,income,work_income,school uniform stitching,530,bank_transfer,yes,816.0
+RA-20260302-E055,2026-03-02,Radha,tailoring,expense,electricity,Electricity bill,193,UPI,yes,359.0
+RA-20260302-E056,2026-03-02,Radha,tailoring,expense,medicine,Pharmacy,125,UPI,no,234.0
+RA-20260303-E057,2026-03-03,Radha,tailoring,expense,medicine,Pharmacy,81,UPI,no,153.0
+RA-20260304-E058,2026-03-04,Radha,tailoring,expense,groceries,Kirana groceries,53,UPI,no,100.0
+RA-20260306-E059,2026-03-06,Radha,tailoring,expense,groceries,Kirana groceries,35,UPI,no,65.0
+RA-20260307-E060,2026-03-07,Radha,tailoring,expense,transport,Bus/auto fare,30,cash,no,35.0
+RA-20260308-E062,2026-03-08,Radha,tailoring,expense,mobile,Mobile recharge,129,UPI,yes,241.0
+RA-20260308-I061,2026-03-08,Radha,tailoring,income,work_income,blouse stitching,335,UPI,yes,370.0
+RA-20260309-E063,2026-03-09,Radha,tailoring,expense,mobile,Mobile recharge,84,UPI,yes,157.0
+RA-20260309-E064,2026-03-09,Radha,tailoring,expense,food,Tea/snacks,40,cash,no,117.0
+RA-20260310-E065,2026-03-10,Radha,tailoring,expense,food,Tea/snacks,40,cash,no,77.0
+RA-20260311-E066,2026-03-11,Radha,tailoring,expense,mobile,Mobile recharge,30,UPI,yes,47.0
+RA-20260311-E067,2026-03-11,Radha,tailoring,expense,cooking_gas,LPG cylinder,30,UPI,yes,17.0
+RA-20260312-E068,2026-03-12,Radha,tailoring,expense,electricity,Electricity bill,30,UPI,yes,-13.0
+RA-20260313-E069,2026-03-13,Radha,tailoring,expense,vegetables,Vegetable market,30,cash,no,-43.0
+RA-20260314-E070,2026-03-14,Radha,tailoring,expense,vegetables,Vegetable market,30,cash,no,-73.0
+RA-20260315-I071,2026-03-15,Radha,tailoring,income,work_income,blouse stitching,414,UPI,yes,341.0
+RA-20260317-E072,2026-03-17,Radha,tailoring,expense,electricity,Electricity bill,119,UPI,yes,222.0
+RA-20260318-E073,2026-03-18,Radha,tailoring,expense,transport,Bus/auto fare,77,cash,no,145.0
+RA-20260318-E074,2026-03-18,Radha,tailoring,expense,vegetables,Vegetable market,50,cash,no,95.0
+RA-20260320-E075,2026-03-20,Radha,tailoring,expense,mobile,Mobile recharge,33,UPI,yes,62.0
+RA-20260321-E076,2026-03-21,Radha,tailoring,expense,electricity,Electricity bill,30,UPI,yes,32.0
+RA-20260322-E078,2026-03-22,Radha,tailoring,expense,groceries,Kirana groceries,171,UPI,no,318.0
+RA-20260322-I077,2026-03-22,Radha,tailoring,income,work_income,blouse stitching,457,UPI,yes,489.0
+RA-20260323-E079,2026-03-23,Radha,tailoring,expense,electricity,Electricity bill,111,UPI,yes,207.0
+RA-20260325-E080,2026-03-25,Radha,tailoring,expense,groceries,Kirana groceries,72,UPI,no,135.0
+RA-20260326-E081,2026-03-26,Radha,tailoring,expense,transport,Bus/auto fare,47,cash,no,88.0
+RA-20260326-E082,2026-03-26,Radha,tailoring,expense,groceries,Kirana groceries,30,UPI,no,58.0
+RA-20260327-E083,2026-03-27,Radha,tailoring,expense,school,School fees/supplies,30,UPI,no,28.0
+RA-20260328-E085,2026-03-28,Radha,tailoring,expense,vegetables,Vegetable market,150,cash,no,347.0
+RA-20260328-I084,2026-03-28,Radha,tailoring,income,work_income,blouse stitching,469,bank_transfer,yes,497.0
+RA-20260331-E086,2026-03-31,Radha,tailoring,expense,transport,Bus/auto fare,90,cash,no,257.0
+RA-20260401-E088,2026-04-01,Radha,tailoring,expense,cooking_gas,LPG cylinder,236,UPI,yes,440.0
+RA-20260401-I087,2026-04-01,Radha,tailoring,income,work_income,dress alteration,419,bank_transfer,yes,676.0
+RA-20260405-E089,2026-04-05,Radha,tailoring,expense,vegetables,Vegetable market,154,cash,no,286.0
+RA-20260408-E091,2026-04-08,Radha,tailoring,expense,school,School fees/supplies,248,UPI,no,462.0
+RA-20260408-I090,2026-04-08,Radha,tailoring,income,work_income,salwar stitching,424,UPI,yes,710.0
+RA-20260409-E092,2026-04-09,Radha,tailoring,expense,electricity,Electricity bill,161,UPI,yes,301.0
+RA-20260411-E093,2026-04-11,Radha,tailoring,expense,electricity,Electricity bill,105,UPI,yes,196.0
+RA-20260412-E094,2026-04-12,Radha,tailoring,expense,groceries,Kirana groceries,68,UPI,no,128.0
+RA-20260412-E095,2026-04-12,Radha,tailoring,expense,food,Tea/snacks,44,cash,no,84.0
+RA-20260413-E096,2026-04-13,Radha,tailoring,expense,school,School fees/supplies,30,UPI,no,54.0
+RA-20260415-I097,2026-04-15,Radha,tailoring,income,work_income,dress alteration,536,bank_transfer,yes,590.0
+RA-20260417-E098,2026-04-17,Radha,tailoring,expense,mobile,Mobile recharge,206,UPI,yes,384.0
+RA-20260418-E099,2026-04-18,Radha,tailoring,expense,cooking_gas,LPG cylinder,134,UPI,yes,250.0
+RA-20260418-E100,2026-04-18,Radha,tailoring,expense,cooking_gas,LPG cylinder,87,UPI,yes,163.0
+RA-20260420-E101,2026-04-20,Radha,tailoring,expense,electricity,Electricity bill,57,UPI,yes,106.0
+RA-20260421-E102,2026-04-21,Radha,tailoring,expense,electricity,Electricity bill,37,UPI,yes,69.0
+RA-20260422-E104,2026-04-22,Radha,tailoring,expense,groceries,Kirana groceries,183,UPI,no,341.0
+RA-20260422-I103,2026-04-22,Radha,tailoring,income,work_income,dress alteration,455,cash,yes,524.0
+RA-20260423-E105,2026-04-23,Radha,tailoring,expense,food,Tea/snacks,112,cash,no,229.0
+RA-20260424-E106,2026-04-24,Radha,tailoring,expense,mobile,Mobile recharge,80,UPI,yes,149.0
+RA-20260425-E107,2026-04-25,Radha,tailoring,expense,transport,Bus/auto fare,51,cash,no,98.0
+RA-20260425-E108,2026-04-25,Radha,tailoring,expense,electricity,Electricity bill,34,UPI,yes,64.0
+RA-20260426-E109,2026-04-26,Radha,tailoring,expense,vegetables,Vegetable market,30,cash,no,34.0
+RA-20260427-E110,2026-04-27,Radha,tailoring,expense,mobile,Mobile recharge,30,UPI,yes,4.0
+RA-20260428-I111,2026-04-28,Radha,tailoring,income,work_income,school uniform stitching,1006,cash,yes,1010.0
+RA-20260429-E112,2026-04-29,Radha,tailoring,expense,food,Tea/snacks,79,cash,no,931.0
+RA-20260430-E113,2026-04-30,Radha,tailoring,expense,school,School fees/supplies,325,UPI,no,606.0
+RA-20260501-I114,2026-05-01,Radha,tailoring,income,work_income,blouse stitching,469,bank_transfer,yes,1075.0
+RA-20260502-E115,2026-05-02,Radha,tailoring,expense,vegetables,Vegetable market,176,cash,no,899.0
+RA-20260505-E116,2026-05-05,Radha,tailoring,expense,medicine,Pharmacy,314,UPI,no,585.0
+RA-20260506-E117,2026-05-06,Radha,tailoring,expense,medicine,Pharmacy,204,UPI,no,381.0
+RA-20260506-E118,2026-05-06,Radha,tailoring,expense,medicine,Pharmacy,133,UPI,no,248.0
+RA-20260507-E119,2026-05-07,Radha,tailoring,expense,electricity,Electricity bill,86,UPI,yes,162.0
+RA-20260508-E121,2026-05-08,Radha,tailoring,expense,electricity,Electricity bill,228,UPI,yes,426.0
+RA-20260508-I120,2026-05-08,Radha,tailoring,income,work_income,school uniform stitching,492,cash,yes,654.0
+RA-20260510-E122,2026-05-10,Radha,tailoring,expense,school,School fees/supplies,149,UPI,no,277.0
+RA-20260511-E123,2026-05-11,Radha,tailoring,expense,school,School fees/supplies,96,UPI,no,181.0
+RA-20260512-E124,2026-05-12,Radha,tailoring,expense,groceries,Kirana groceries,63,UPI,no,118.0
+RA-20260514-E125,2026-05-14,Radha,tailoring,expense,groceries,Kirana groceries,41,UPI,no,77.0
+RA-20260515-I126,2026-05-15,Radha,tailoring,income,work_income,salwar stitching,472,bank_transfer,yes,549.0
+RA-20260521-E127,2026-05-21,Radha,tailoring,expense,medicine,Pharmacy,129,UPI,no,420.0
+RA-20260522-E129,2026-05-22,Radha,tailoring,expense,transport,Bus/auto fare,166,cash,no,587.0
+RA-20260522-I128,2026-05-22,Radha,tailoring,income,work_income,school uniform stitching,333,cash,yes,753.0
+RA-20260523-E130,2026-05-23,Radha,tailoring,expense,food,Tea/snacks,36,cash,no,551.0
+RA-20260524-E131,2026-05-24,Radha,tailoring,expense,medicine,Pharmacy,192,UPI,no,359.0
+RA-20260525-E132,2026-05-25,Radha,tailoring,expense,mobile,Mobile recharge,125,UPI,yes,234.0
+RA-20260526-E133,2026-05-26,Radha,tailoring,expense,school,School fees/supplies,81,UPI,no,153.0
+RA-20260528-E135,2026-05-28,Radha,tailoring,expense,cooking_gas,LPG cylinder,203,UPI,yes,378.0
+RA-20260528-E136,2026-05-28,Radha,tailoring,expense,vegetables,Vegetable market,70,cash,no,308.0
+RA-20260528-I134,2026-05-28,Radha,tailoring,income,work_income,blouse stitching,428,cash,yes,581.0
+RA-20260531-E137,2026-05-31,Radha,tailoring,expense,transport,Bus/auto fare,91,cash,no,217.0
+RA-20260601-I138,2026-06-01,Radha,tailoring,income,work_income,blouse stitching,350,cash,yes,567.0
+RA-20260602-E139,2026-06-02,Radha,tailoring,expense,cooking_gas,LPG cylinder,198,UPI,yes,369.0
+RA-20260603-E140,2026-06-03,Radha,tailoring,expense,vegetables,Vegetable market,101,cash,no,268.0
+RA-20260603-E141,2026-06-03,Radha,tailoring,expense,electricity,Electricity bill,93,UPI,yes,175.0
+RA-20260604-E142,2026-06-04,Radha,tailoring,expense,food,Tea/snacks,61,cash,no,114.0
+RA-20260604-E143,2026-06-04,Radha,tailoring,expense,school,School fees/supplies,39,UPI,no,75.0
+RA-20260605-E144,2026-06-05,Radha,tailoring,expense,mobile,Mobile recharge,30,UPI,yes,45.0
+RA-20260606-E145,2026-06-06,Radha,tailoring,expense,food,Tea/snacks,30,cash,no,15.0
+RA-20260608-E147,2026-06-08,Radha,tailoring,expense,school,School fees/supplies,138,UPI,no,257.0
+RA-20260608-I146,2026-06-08,Radha,tailoring,income,work_income,salwar stitching,380,UPI,yes,395.0
+RA-20260609-E148,2026-06-09,Radha,tailoring,expense,cooking_gas,LPG cylinder,89,UPI,yes,168.0
+RA-20260611-E149,2026-06-11,Radha,tailoring,expense,transport,Bus/auto fare,58,cash,no,110.0
+RA-20260615-I150,2026-06-15,Radha,tailoring,income,work_income,salwar stitching,391,bank_transfer,yes,501.0
+RA-20260617-E151,2026-06-17,Radha,tailoring,expense,mobile,Mobile recharge,175,UPI,yes,326.0
+RA-20260617-E152,2026-06-17,Radha,tailoring,expense,medicine,Pharmacy,114,UPI,no,212.0
+RA-20260618-E153,2026-06-18,Radha,tailoring,expense,groceries,Kirana groceries,74,UPI,no,138.0
+RA-20260620-E154,2026-06-20,Radha,tailoring,expense,electricity,Electricity bill,48,UPI,yes,90.0
+RA-20260621-E155,2026-06-21,Radha,tailoring,expense,electricity,Electricity bill,31,UPI,yes,59.0
+RA-20260622-E157,2026-06-22,Radha,tailoring,expense,medicine,Pharmacy,224,UPI,no,417.0
+RA-20260622-I156,2026-06-22,Radha,tailoring,income,work_income,school uniform stitching,582,bank_transfer,yes,641.0
+RA-20260623-E158,2026-06-23,Radha,tailoring,expense,groceries,Kirana groceries,145,UPI,no,272.0
+RA-20260624-E159,2026-06-24,Radha,tailoring,expense,mobile,Mobile recharge,95,UPI,yes,177.0
+RA-20260627-E160,2026-06-27,Radha,tailoring,expense,electricity,Electricity bill,61,UPI,yes,116.0
+RA-20260628-I161,2026-06-28,Radha,tailoring,income,work_income,blouse stitching,412,cash,yes,528.0
+RA-20260630-E162,2026-06-30,Radha,tailoring,expense,medicine,Pharmacy,184,UPI,no,344.0
+SU-20260103-E002,2026-01-03,Sunita,domestic help,expense,groceries,Kirana groceries,542,UPI,no,5126.0
+SU-20260103-I001,2026-01-03,Sunita,domestic help,income,work_income,monthly housework payment,568,bank_transfer,yes,5668.0
+SU-20260104-E003,2026-01-04,Sunita,domestic help,expense,groceries,Kirana groceries,463,UPI,no,4663.0
+SU-20260105-E004,2026-01-05,Sunita,domestic help,expense,medicine,Pharmacy,205,UPI,no,4458.0
+SU-20260105-E005,2026-01-05,Sunita,domestic help,expense,groceries,Kirana groceries,473,UPI,no,3985.0
+SU-20260106-E006,2026-01-06,Sunita,domestic help,expense,cooking_gas,LPG cylinder,944,UPI,yes,3041.0
+SU-20260108-E007,2026-01-08,Sunita,domestic help,expense,vegetables,Vegetable market,76,cash,no,2965.0
+SU-20260108-E008,2026-01-08,Sunita,domestic help,expense,school,School fees/supplies,803,UPI,no,2162.0
+SU-20260109-E009,2026-01-09,Sunita,domestic help,expense,groceries,Kirana groceries,257,UPI,no,1905.0
+SU-20260110-I010,2026-01-10,Sunita,domestic help,income,work_income,cleaning work payment,595,UPI,yes,2500.0
+SU-20260111-E011,2026-01-11,Sunita,domestic help,expense,food,Tea/snacks,87,cash,no,2413.0
+SU-20260113-E012,2026-01-13,Sunita,domestic help,expense,electricity,Electricity bill,844,UPI,yes,1569.0
+SU-20260113-E013,2026-01-13,Sunita,domestic help,expense,food,Tea/snacks,139,cash,no,1430.0
+SU-20260114-E014,2026-01-14,Sunita,domestic help,expense,food,Tea/snacks,55,cash,no,1375.0
+SU-20260116-E015,2026-01-16,Sunita,domestic help,expense,vegetables,Vegetable market,100,cash,no,1275.0
+SU-20260117-E017,2026-01-17,Sunita,domestic help,expense,groceries,Kirana groceries,298,UPI,no,1580.0
+SU-20260117-I016,2026-01-17,Sunita,domestic help,income,work_income,cleaning work payment,603,bank_transfer,yes,1878.0
+SU-20260118-E018,2026-01-18,Sunita,domestic help,expense,medicine,Pharmacy,172,UPI,no,1408.0
+SU-20260119-E019,2026-01-19,Sunita,domestic help,expense,food,Tea/snacks,80,cash,no,1328.0
+SU-20260119-E020,2026-01-19,Sunita,domestic help,expense,school,School fees/supplies,417,UPI,no,911.0
+SU-20260120-E021,2026-01-20,Sunita,domestic help,expense,electricity,Electricity bill,318,UPI,yes,593.0
+SU-20260121-E022,2026-01-21,Sunita,domestic help,expense,electricity,Electricity bill,207,UPI,yes,386.0
+SU-20260123-E023,2026-01-23,Sunita,domestic help,expense,vegetables,Vegetable market,135,cash,no,251.0
+SU-20260124-E025,2026-01-24,Sunita,domestic help,expense,vegetables,Vegetable market,213,cash,no,689.0
+SU-20260124-I024,2026-01-24,Sunita,domestic help,income,work_income,cleaning work payment,651,bank_transfer,yes,902.0
+SU-20260125-E026,2026-01-25,Sunita,domestic help,expense,cooking_gas,LPG cylinder,241,UPI,yes,448.0
+SU-20260126-E027,2026-01-26,Sunita,domestic help,expense,food,Tea/snacks,156,cash,no,292.0
+SU-20260129-E028,2026-01-29,Sunita,domestic help,expense,groceries,Kirana groceries,102,UPI,no,190.0
+SU-20260131-E029,2026-01-31,Sunita,domestic help,expense,electricity,Electricity bill,66,UPI,yes,124.0
+SU-20260202-E030,2026-02-02,Sunita,domestic help,expense,vegetables,Vegetable market,43,cash,no,81.0
+SU-20260203-E032,2026-02-03,Sunita,domestic help,expense,school,School fees/supplies,230,UPI,no,430.0
+SU-20260203-I031,2026-02-03,Sunita,domestic help,income,work_income,monthly housework payment,579,bank_transfer,yes,660.0
+SU-20260205-E033,2026-02-05,Sunita,domestic help,expense,electricity,Electricity bill,150,UPI,yes,280.0
+SU-20260208-E034,2026-02-08,Sunita,domestic help,expense,medicine,Pharmacy,98,UPI,no,182.0
+SU-20260208-E035,2026-02-08,Sunita,domestic help,expense,groceries,Kirana groceries,63,UPI,no,119.0
+SU-20260209-E036,2026-02-09,Sunita,domestic help,expense,medicine,Pharmacy,41,UPI,no,78.0
+SU-20260210-E038,2026-02-10,Sunita,domestic help,expense,electricity,Electricity bill,247,UPI,yes,460.0
+SU-20260210-I037,2026-02-10,Sunita,domestic help,income,work_income,monthly housework payment,629,UPI,yes,707.0
+SU-20260212-E039,2026-02-12,Sunita,domestic help,expense,food,Tea/snacks,91,cash,no,369.0
+SU-20260213-E040,2026-02-13,Sunita,domestic help,expense,groceries,Kirana groceries,129,UPI,no,240.0
+SU-20260214-E041,2026-02-14,Sunita,domestic help,expense,vegetables,Vegetable market,84,cash,no,156.0
+SU-20260216-E042,2026-02-16,Sunita,domestic help,expense,electricity,Electricity bill,54,UPI,yes,102.0
+SU-20260217-E044,2026-02-17,Sunita,domestic help,expense,mobile,Mobile recharge,241,UPI,yes,450.0
+SU-20260217-I043,2026-02-17,Sunita,domestic help,income,work_income,cleaning work payment,589,UPI,yes,691.0
+SU-20260218-E045,2026-02-18,Sunita,domestic help,expense,vegetables,Vegetable market,130,cash,no,320.0
+SU-20260218-E046,2026-02-18,Sunita,domestic help,expense,school,School fees/supplies,112,UPI,no,208.0
+SU-20260220-E047,2026-02-20,Sunita,domestic help,expense,electricity,Electricity bill,72,UPI,yes,136.0
+SU-20260221-E048,2026-02-21,Sunita,domestic help,expense,medicine,Pharmacy,47,UPI,no,89.0
+SU-20260222-E049,2026-02-22,Sunita,domestic help,expense,cooking_gas,LPG cylinder,31,UPI,yes,58.0
+SU-20260224-I050,2026-02-24,Sunita,domestic help,income,work_income,cleaning work payment,560,UPI,yes,618.0
+SU-20260225-E051,2026-02-25,Sunita,domestic help,expense,school,School fees/supplies,216,UPI,no,402.0
+SU-20260226-E052,2026-02-26,Sunita,domestic help,expense,school,School fees/supplies,140,UPI,no,262.0
+SU-20260301-E053,2026-03-01,Sunita,domestic help,expense,groceries,Kirana groceries,91,UPI,no,171.0
+SU-20260302-E054,2026-03-02,Sunita,domestic help,expense,vegetables,Vegetable market,59,cash,no,112.0
+SU-20260303-I055,2026-03-03,Sunita,domestic help,income,work_income,cleaning work payment,1118,cash,yes,1230.0
+SU-20260304-E056,2026-03-04,Sunita,domestic help,expense,electricity,Electricity bill,430,UPI,yes,800.0
+SU-20260305-E057,2026-03-05,Sunita,domestic help,expense,vegetables,Vegetable market,144,cash,no,656.0
+SU-20260308-E058,2026-03-08,Sunita,domestic help,expense,medicine,Pharmacy,229,UPI,no,427.0
+SU-20260309-E059,2026-03-09,Sunita,domestic help,expense,electricity,Electricity bill,149,UPI,yes,278.0
+SU-20260310-I060,2026-03-10,Sunita,domestic help,income,work_income,cleaning work payment,652,UPI,yes,930.0
+SU-20260311-E061,2026-03-11,Sunita,domestic help,expense,transport,Bus/auto fare,106,cash,no,824.0
+SU-20260313-E062,2026-03-13,Sunita,domestic help,expense,electricity,Electricity bill,288,UPI,yes,536.0
+SU-20260315-E063,2026-03-15,Sunita,domestic help,expense,transport,Bus/auto fare,73,cash,no,463.0
+SU-20260316-E064,2026-03-16,Sunita,domestic help,expense,school,School fees/supplies,162,UPI,no,301.0
+SU-20260317-E066,2026-03-17,Sunita,domestic help,expense,groceries,Kirana groceries,308,UPI,no,574.0
+SU-20260317-I065,2026-03-17,Sunita,domestic help,income,work_income,monthly housework payment,581,bank_transfer,yes,882.0
+SU-20260320-E067,2026-03-20,Sunita,domestic help,expense,medicine,Pharmacy,200,UPI,no,374.0
+SU-20260322-E068,2026-03-22,Sunita,domestic help,expense,electricity,Electricity bill,130,UPI,yes,244.0
+SU-20260322-E069,2026-03-22,Sunita,domestic help,expense,electricity,Electricity bill,85,UPI,yes,159.0
+SU-20260324-E071,2026-03-24,Sunita,domestic help,expense,electricity,Electricity bill,250,UPI,yes,466.0
+SU-20260324-I070,2026-03-24,Sunita,domestic help,income,work_income,monthly housework payment,557,UPI,yes,716.0
+SU-20260325-E072,2026-03-25,Sunita,domestic help,expense,school,School fees/supplies,163,UPI,no,303.0
+SU-20260325-E073,2026-03-25,Sunita,domestic help,expense,groceries,Kirana groceries,106,UPI,no,197.0
+SU-20260403-E075,2026-04-03,Sunita,domestic help,expense,transport,Bus/auto fare,54,cash,no,752.0
+SU-20260403-I074,2026-04-03,Sunita,domestic help,income,work_income,monthly housework payment,609,cash,yes,806.0
+SU-20260405-E076,2026-04-05,Sunita,domestic help,expense,medicine,Pharmacy,134,UPI,no,618.0
+SU-20260406-E077,2026-04-06,Sunita,domestic help,expense,vegetables,Vegetable market,135,cash,no,483.0
+SU-20260407-E078,2026-04-07,Sunita,domestic help,expense,mobile,Mobile recharge,169,UPI,yes,314.0
+SU-20260410-E080,2026-04-10,Sunita,domestic help,expense,medicine,Pharmacy,344,UPI,no,641.0
+SU-20260410-I079,2026-04-10,Sunita,domestic help,income,work_income,cleaning work payment,671,UPI,yes,985.0
+SU-20260412-E081,2026-04-12,Sunita,domestic help,expense,vegetables,Vegetable market,96,cash,no,545.0
+SU-20260414-E082,2026-04-14,Sunita,domestic help,expense,school,School fees/supplies,190,UPI,no,355.0
+SU-20260416-E083,2026-04-16,Sunita,domestic help,expense,groceries,Kirana groceries,124,UPI,no,231.0
+SU-20260417-E085,2026-04-17,Sunita,domestic help,expense,cooking_gas,LPG cylinder,275,UPI,yes,513.0
+SU-20260417-I084,2026-04-17,Sunita,domestic help,income,work_income,cleaning work payment,557,cash,yes,788.0
+SU-20260418-E086,2026-04-18,Sunita,domestic help,expense,food,Tea/snacks,173,cash,no,340.0
+SU-20260419-E087,2026-04-19,Sunita,domestic help,expense,vegetables,Vegetable market,118,cash,no,222.0
+SU-20260421-E088,2026-04-21,Sunita,domestic help,expense,transport,Bus/auto fare,41,cash,no,181.0
+SU-20260423-E089,2026-04-23,Sunita,domestic help,expense,vegetables,Vegetable market,63,cash,no,118.0
+SU-20260424-I090,2026-04-24,Sunita,domestic help,income,work_income,monthly housework payment,590,bank_transfer,yes,708.0
+SU-20260425-E091,2026-04-25,Sunita,domestic help,expense,transport,Bus/auto fare,136,cash,no,572.0
+SU-20260426-E092,2026-04-26,Sunita,domestic help,expense,food,Tea/snacks,134,cash,no,438.0
+SU-20260428-E093,2026-04-28,Sunita,domestic help,expense,mobile,Mobile recharge,153,UPI,yes,285.0
+SU-20260429-E094,2026-04-29,Sunita,domestic help,expense,cooking_gas,LPG cylinder,99,UPI,yes,186.0
+SU-20260501-E095,2026-05-01,Sunita,domestic help,expense,cooking_gas,LPG cylinder,65,UPI,yes,121.0
+SU-20260501-E096,2026-05-01,Sunita,domestic help,expense,school,School fees/supplies,42,UPI,no,79.0
+SU-20260502-E097,2026-05-02,Sunita,domestic help,expense,medicine,Pharmacy,30,UPI,no,49.0
+SU-20260503-I098,2026-05-03,Sunita,domestic help,income,work_income,monthly housework payment,570,UPI,yes,619.0
+SU-20260504-E099,2026-05-04,Sunita,domestic help,expense,food,Tea/snacks,82,cash,no,537.0
+SU-20260505-E100,2026-05-05,Sunita,domestic help,expense,mobile,Mobile recharge,187,UPI,yes,350.0
+SU-20260506-E101,2026-05-06,Sunita,domestic help,expense,cooking_gas,LPG cylinder,122,UPI,yes,228.0
+SU-20260506-E102,2026-05-06,Sunita,domestic help,expense,food,Tea/snacks,30,cash,no,198.0
+SU-20260507-E103,2026-05-07,Sunita,domestic help,expense,transport,Bus/auto fare,69,cash,no,129.0
+SU-20260507-E104,2026-05-07,Sunita,domestic help,expense,electricity,Electricity bill,45,UPI,yes,84.0
+SU-20260508-E105,2026-05-08,Sunita,domestic help,expense,groceries,Kirana groceries,30,UPI,no,54.0
+SU-20260509-E106,2026-05-09,Sunita,domestic help,expense,mobile,Mobile recharge,30,UPI,yes,24.0
+SU-20260510-I107,2026-05-10,Sunita,domestic help,income,work_income,monthly housework payment,551,bank_transfer,yes,575.0
+SU-20260511-E108,2026-05-11,Sunita,domestic help,expense,medicine,Pharmacy,201,UPI,no,374.0
+SU-20260514-E109,2026-05-14,Sunita,domestic help,expense,groceries,Kirana groceries,130,UPI,no,244.0
+SU-20260517-I110,2026-05-17,Sunita,domestic help,income,work_income,cleaning work payment,583,UPI,yes,827.0
+SU-20260518-E111,2026-05-18,Sunita,domestic help,expense,transport,Bus/auto fare,100,cash,no,727.0
+SU-20260519-E112,2026-05-19,Sunita,domestic help,expense,cooking_gas,LPG cylinder,254,UPI,yes,473.0
+SU-20260521-E113,2026-05-21,Sunita,domestic help,expense,food,Tea/snacks,140,cash,no,333.0
+SU-20260524-E115,2026-05-24,Sunita,domestic help,expense,school,School fees/supplies,329,UPI,no,613.0
+SU-20260524-I114,2026-05-24,Sunita,domestic help,income,work_income,cleaning work payment,609,UPI,yes,942.0
+SU-20260526-E116,2026-05-26,Sunita,domestic help,expense,electricity,Electricity bill,214,UPI,yes,399.0
+SU-20260528-E117,2026-05-28,Sunita,domestic help,expense,vegetables,Vegetable market,81,cash,no,318.0
+SU-20260529-E118,2026-05-29,Sunita,domestic help,expense,cooking_gas,LPG cylinder,111,UPI,yes,207.0
+SU-20260531-E119,2026-05-31,Sunita,domestic help,expense,school,School fees/supplies,72,UPI,no,135.0
+SU-20260603-E121,2026-06-03,Sunita,domestic help,expense,transport,Bus/auto fare,153,cash,no,1097.0
+SU-20260603-I120,2026-06-03,Sunita,domestic help,income,work_income,cleaning work payment,1115,bank_transfer,yes,1250.0
+SU-20260605-E122,2026-06-05,Sunita,domestic help,expense,food,Tea/snacks,87,cash,no,1010.0
+SU-20260610-I123,2026-06-10,Sunita,domestic help,income,work_income,monthly housework payment,641,cash,yes,1651.0
+SU-20260612-E124,2026-06-12,Sunita,domestic help,expense,electricity,Electricity bill,577,UPI,yes,1074.0
+SU-20260613-E125,2026-06-13,Sunita,domestic help,expense,transport,Bus/auto fare,174,cash,no,900.0
+SU-20260614-E126,2026-06-14,Sunita,domestic help,expense,groceries,Kirana groceries,226,UPI,no,674.0
+SU-20260616-E127,2026-06-16,Sunita,domestic help,expense,cooking_gas,LPG cylinder,235,UPI,yes,439.0
+SU-20260617-E129,2026-06-17,Sunita,domestic help,expense,groceries,Kirana groceries,348,UPI,no,647.0
+SU-20260617-I128,2026-06-17,Sunita,domestic help,income,work_income,monthly housework payment,556,UPI,yes,995.0
+SU-20260618-E130,2026-06-18,Sunita,domestic help,expense,school,School fees/supplies,226,UPI,no,421.0
+SU-20260619-E131,2026-06-19,Sunita,domestic help,expense,mobile,Mobile recharge,147,UPI,yes,274.0
+SU-20260620-E132,2026-06-20,Sunita,domestic help,expense,vegetables,Vegetable market,95,cash,no,179.0
+SU-20260622-E133,2026-06-22,Sunita,domestic help,expense,school,School fees/supplies,62,UPI,no,117.0
+SU-20260623-E134,2026-06-23,Sunita,domestic help,expense,mobile,Mobile recharge,40,UPI,yes,77.0
+SU-20260624-E136,2026-06-24,Sunita,domestic help,expense,school,School fees/supplies,253,UPI,no,471.0
+SU-20260624-I135,2026-06-24,Sunita,domestic help,income,work_income,cleaning work payment,647,bank_transfer,yes,724.0
+SU-20260625-E137,2026-06-25,Sunita,domestic help,expense,mobile,Mobile recharge,164,UPI,yes,307.0
+SU-20260626-E138,2026-06-26,Sunita,domestic help,expense,cooking_gas,LPG cylinder,107,UPI,yes,200.0
+SU-20260627-E139,2026-06-27,Sunita,domestic help,expense,school,School fees/supplies,70,UPI,no,130.0
+SU-20260628-E140,2026-06-28,Sunita,domestic help,expense,cooking_gas,LPG cylinder,45,UPI,yes,85.0
+SU-20260629-E141,2026-06-29,Sunita,domestic help,expense,school,School fees/supplies,30,UPI,no,55.0
+SU-20260630-E142,2026-06-30,Sunita,domestic help,expense,cooking_gas,LPG cylinder,30,UPI,yes,25.0

@@ -1,0 +1,472 @@
+{
+  "ledger_01_Asha.jpg": [
+    {
+      "date": "2026-03-19",
+      "description": "family tiffin payment",
+      "amount_inr": 887,
+      "transaction_type": "income",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-04-26",
+      "description": "weekly tiffin collection",
+      "amount_inr": 797,
+      "transaction_type": "income",
+      "payment_method": "bank_transfer"
+    },
+    {
+      "date": "2026-04-27",
+      "description": "Mobile recharge",
+      "amount_inr": 208,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-02-26",
+      "description": "Pharmacy",
+      "amount_inr": 457,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-06-12",
+      "description": "family tiffin payment",
+      "amount_inr": 824,
+      "transaction_type": "income",
+      "payment_method": "Cash"
+    }
+  ],
+  "ledger_02_Asha.jpg": [
+    {
+      "date": "2026-05-24",
+      "description": "Tea/snacks",
+      "amount_inr": 119,
+      "transaction_type": "expense",
+      "payment_method": "Cash"
+    },
+    {
+      "date": "2026-04-12",
+      "description": "Pharmacy",
+      "amount_inr": 319,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-01-16",
+      "description": "Kirana groceries",
+      "amount_inr": 209,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-06-03",
+      "description": "Bus/auto fare",
+      "amount_inr": 94,
+      "transaction_type": "expense",
+      "payment_method": "Cash"
+    },
+    {
+      "date": "2026-03-23",
+      "description": "School fees/supplies",
+      "amount_inr": 120,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    }
+  ],
+  "ledger_03_Asha.jpg": [
+    {
+      "date": "2026-02-04",
+      "description": "Mobile recharge",
+      "amount_inr": 30,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-05-16",
+      "description": "Tea/snacks",
+      "amount_inr": 110,
+      "transaction_type": "expense",
+      "payment_method": "Cash"
+    },
+    {
+      "date": "2026-06-20",
+      "description": "Electricity bill",
+      "amount_inr": 220,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-01-23",
+      "description": "Electricity bill",
+      "amount_inr": 652,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-05-19",
+      "description": "Pharmacy",
+      "amount_inr": 282,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    }
+  ],
+  "ledger_04_Asha.jpg": [
+    {
+      "date": "2026-05-12",
+      "description": "family tiffin payment",
+      "amount_inr": 936,
+      "transaction_type": "income",
+      "payment_method": "Cash"
+    },
+    {
+      "date": "2026-01-02",
+      "description": "LPG cylinder",
+      "amount_inr": 895,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-01-21",
+      "description": "Mobile recharge",
+      "amount_inr": 380,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-03-08",
+      "description": "Pharmacy",
+      "amount_inr": 138,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-05-16",
+      "description": "Bus/auto fare",
+      "amount_inr": 113,
+      "transaction_type": "expense",
+      "payment_method": "Cash"
+    }
+  ],
+  "ledger_05_Meena.jpg": [
+    {
+      "date": "2026-03-29",
+      "description": "Kirana groceries",
+      "amount_inr": 117,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-05-20",
+      "description": "Mobile recharge",
+      "amount_inr": 178,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-06-26",
+      "description": "Bus/auto fare",
+      "amount_inr": 110,
+      "transaction_type": "expense",
+      "payment_method": "Cash"
+    },
+    {
+      "date": "2026-05-25",
+      "description": "beauty service payment",
+      "amount_inr": 892,
+      "transaction_type": "income",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-03-17",
+      "description": "Mobile recharge",
+      "amount_inr": 74,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    }
+  ],
+  "ledger_06_Meena.jpg": [
+    {
+      "date": "2026-03-25",
+      "description": "Pharmacy",
+      "amount_inr": 313,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-02-10",
+      "description": "Kirana groceries",
+      "amount_inr": 79,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-01-22",
+      "description": "Electricity bill",
+      "amount_inr": 256,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-05-22",
+      "description": "Tea/snacks",
+      "amount_inr": 75,
+      "transaction_type": "expense",
+      "payment_method": "Cash"
+    },
+    {
+      "date": "2026-04-01",
+      "description": "Tea/snacks",
+      "amount_inr": 50,
+      "transaction_type": "expense",
+      "payment_method": "Cash"
+    }
+  ],
+  "ledger_07_Meena.jpg": [
+    {
+      "date": "2026-05-30",
+      "description": "School fees/supplies",
+      "amount_inr": 95,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-02-11",
+      "description": "beauty service payment",
+      "amount_inr": 821,
+      "transaction_type": "income",
+      "payment_method": "Cash"
+    },
+    {
+      "date": "2026-03-01",
+      "description": "Tea/snacks",
+      "amount_inr": 74,
+      "transaction_type": "expense",
+      "payment_method": "Cash"
+    },
+    {
+      "date": "2026-01-15",
+      "description": "Mobile recharge",
+      "amount_inr": 243,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-02-22",
+      "description": "Kirana groceries",
+      "amount_inr": 161,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    }
+  ],
+  "ledger_08_Meena.jpg": [
+    {
+      "date": "2026-02-15",
+      "description": "Vegetable market",
+      "amount_inr": 105,
+      "transaction_type": "expense",
+      "payment_method": "Cash"
+    },
+    {
+      "date": "2026-06-25",
+      "description": "Electricity bill",
+      "amount_inr": 364,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-02-16",
+      "description": "Mobile recharge",
+      "amount_inr": 172,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-04-09",
+      "description": "Mobile recharge",
+      "amount_inr": 105,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-03-16",
+      "description": "Vegetable market",
+      "amount_inr": 176,
+      "transaction_type": "expense",
+      "payment_method": "Cash"
+    }
+  ],
+  "ledger_09_Radha.jpg": [
+    {
+      "date": "2026-05-21",
+      "description": "Pharmacy",
+      "amount_inr": 129,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-04-30",
+      "description": "School fees/supplies",
+      "amount_inr": 325,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-05-06",
+      "description": "Pharmacy",
+      "amount_inr": 133,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-02-18",
+      "description": "Kirana groceries",
+      "amount_inr": 56,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-03-18",
+      "description": "Vegetable market",
+      "amount_inr": 50,
+      "transaction_type": "expense",
+      "payment_method": "Cash"
+    }
+  ],
+  "ledger_10_Radha.jpg": [
+    {
+      "date": "2026-05-26",
+      "description": "School fees/supplies",
+      "amount_inr": 81,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-03-11",
+      "description": "Mobile recharge",
+      "amount_inr": 30,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-04-01",
+      "description": "LPG cylinder",
+      "amount_inr": 236,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-01-17",
+      "description": "Bus/auto fare",
+      "amount_inr": 131,
+      "transaction_type": "expense",
+      "payment_method": "Cash"
+    },
+    {
+      "date": "2026-06-09",
+      "description": "LPG cylinder",
+      "amount_inr": 89,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    }
+  ],
+  "ledger_11_Radha.jpg": [
+    {
+      "date": "2026-01-22",
+      "description": "Tea/snacks",
+      "amount_inr": 110,
+      "transaction_type": "expense",
+      "payment_method": "Cash"
+    },
+    {
+      "date": "2026-04-23",
+      "description": "Tea/snacks",
+      "amount_inr": 112,
+      "transaction_type": "expense",
+      "payment_method": "Cash"
+    },
+    {
+      "date": "2026-05-12",
+      "description": "Kirana groceries",
+      "amount_inr": 63,
+      "transaction_type": "expense",
+      "payment_method": "UPI"
+    },
+    {
+      "date": "2026-03-26",
+      "description": "Bus/auto fare",
+      "amount_inr": 47,
+      "transaction_type": "expense",
+      "payment_method": "Cash"
+    },
+    {
+      "date": "2026-03-28",
+      "description": "blouse stitching",
+      "amount_inr": 469,
+      "transaction_type": "income",
+      "payment_method": "bank_transfer"
+    }
+  ],
+  "ledger_12_Radha.jpg": {
+    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 14.116648076s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '14s'}]}}"
+  },
+  "ledger_13_Sunita.jpg": {
+    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 13.834470298s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '13s'}]}}"
+  },
+  "ledger_14_Sunita.jpg": {
+    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 13.526648921s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '13s'}]}}"
+  },
+  "ledger_15_Sunita.jpg": {
+    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 13.253946111s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '13s'}]}}"
+  },
+  "ledger_16_Sunita.jpg": {
+    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 12.932117823s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12s'}]}}"
+  },
+  "upi_01_Asha.jpg": {
+    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 12.67472643s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12s'}]}}"
+  },
+  "upi_02_Asha.jpg": {
+    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 12.40138608s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.6-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12s'}]}}"
+  },
+  "upi_03_Asha.jpg": {
+    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 12.141689708s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.6-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12s'}]}}"
+  },
+  "upi_04_Asha.jpg": {
+    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 11.887957613s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '11s'}]}}"
+  },
+  "upi_05_Meena.jpg": {
+    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 11.626660513s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '11s'}]}}"
+  },
+  "upi_06_Meena.jpg": {
+    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 11.352403941s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.6-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '11s'}]}}"
+  },
+  "upi_07_Meena.jpg": {
+    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 11.072189015s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '11s'}]}}"
+  },
+  "upi_08_Meena.jpg": {
+    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 10.800371507s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '10s'}]}}"
+  },
+  "upi_09_Radha.jpg": {
+    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 10.530210628s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '10s'}]}}"
+  },
+  "upi_10_Radha.jpg": {
+    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 10.267553256s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '10s'}]}}"
+  },
+  "upi_11_Radha.jpg": {
+    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 9.981183646s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '9s'}]}}"
+  },
+  "upi_12_Radha.jpg": {
+    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 9.734166524s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.6-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '9s'}]}}"
+  },
+  "upi_13_Sunita.jpg": {
+    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 9.465305549s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.6-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '9s'}]}}"
+  },
+  "upi_14_Sunita.jpg": {
+    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 9.20024903s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '9s'}]}}"
+  },
+  "upi_15_Sunita.jpg": {
+    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 8.921329913s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '8s'}]}}"
+  },
+  "upi_16_Sunita.jpg": {
+    "error": "429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.6-flash\\nPlease retry in 8.669557165s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.6-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '8s'}]}}"
+  }
+}

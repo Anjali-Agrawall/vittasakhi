@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>VittaSakhi — Digital Work & Credit Identity</title>
+<style>
+  body { font-family: Arial, sans-serif; max-width: 700px; margin: 40px auto; padding: 0 20px; background: #faf7eb; color: #222; }
+  h1 { color: #4c2f8f; }
+  .card { background: white; border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
+  select, input[type=file] { padding: 8px; margin: 10px 0; width: 100%; box-sizing: border-box; }
+  button { background: #4c2f8f; color: white; border: none; padding: 12px 24px; border-radius: 6px; font-size: 16px; cursor: pointer; }
+  button:disabled { background: #aaa; }
+  pre { white-space: pre-wrap; background: #f4f4f4; padding: 12px; border-radius: 6px; font-size: 14px; }
+  .loading { color: #888; font-style: italic; }
+</style>
+</head>
+<body>
+
+<h1>VittaSakhi</h1>
+<p>Turn income records into a credit-readiness report.</p>
+
+<div class="card">
+  <label>Select worker:</label>
+  <select id="persona">
+    <option value="Asha">Asha (Tiffin Service)</option>
+    <option value="Meena">Meena</option>
+    <option value="Radha">Radha</option>
+    <option value="Sunita">Sunita</option>
+  </select>
+
+  <label>Upload a ledger photo or UPI screenshot:</label>
+  <input type="file" id="imageFile" accept="image/*">
+
+  <button onclick="processImage()">Generate Credit-Readiness Report</button>
+</div>
+
+<div id="results"></div>
+
+<script>
+  // CHANGE THIS to your deployed backend URL once live
+  const API_URL = "http://127.0.0.1:8000";
+
+  async function processImage() {
+    const persona = document.getElementById("persona").value;
+    const fileInput = document.getElementById("imageFile");
+    const resultsDiv = document.getElementById("results");
+
+    if (!fileInput.files.length) {
+      alert("Please select an image first.");
+      return;
+    }
+
+    resultsDiv.innerHTML = '<p class="loading">Processing... this can take 20-40 seconds.</p>';
+
+    const formData = new FormData();
+    formData.append("persona", persona);
+    formData.append("image", fileInput.files[0]);
+
+    try {
+      const response = await fetch(`${API_URL}/process`, {
+        method: "POST",
+        body: formData,
+      });
+      const data = await response.json();
+
+      resultsDiv.innerHTML = `
+        <div class="card">
+          <h3>Extracted Transaction Data</h3>
+          <pre>${data.extracted_data}</pre>
+        </div>
+        <div class="card">
+          <h3>Cash-Flow Signals</h3>
+          <pre>${data.cashflow_signals}</pre>
+        </div>
+        <div class="card">
+          <h3>Credit-Readiness Report</h3>
+          <pre>${data.credit_report}</pre>
+        </div>
+      `;
+    } catch (err) {
+      resultsDiv.innerHTML = `<p style="color:red">Error: ${err.message}</p>`;
+    }
+  }
+</script>
+
+</body>
+</html>

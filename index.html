@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>VittaSakhi — Digital Work & Credit Identity</title>
+<style>
+  * { box-sizing: border-box; }
+  body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px 60px;
+    background: linear-gradient(180deg, #fdfaf1 0%, #f6f0e0 100%);
+    color: #2a2a2a;
+  }
+  header {
+    text-align: center;
+    padding: 50px 0 20px;
+  }
+  header .logo {
+    font-size: 44px;
+    font-weight: 800;
+    color: #4c2f8f;
+    letter-spacing: -1px;
+  }
+  header .logo span { color: #e07a3f; }
+  header p.tagline {
+    font-size: 17px;
+    color: #555;
+    max-width: 520px;
+    margin: 10px auto 0;
+  }
+  .demo-badge {
+    display: inline-block;
+    margin-top: 14px;
+    background: #fff3e0;
+    color: #9a5b00;
+    border: 1px solid #f0c98a;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 13px;
+  }
+
+  .how-it-works {
+    display: flex;
+    gap: 14px;
+    margin: 30px 0;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .step {
+    flex: 1;
+    min-width: 130px;
+    background: white;
+    border-radius: 12px;
+    padding: 16px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  }
+  .step .num {
+    display: inline-block;
+    width: 28px; height: 28px;
+    line-height: 28px;
+    background: #4c2f8f;
+    color: white;
+    border-radius: 50%;
+    font-weight: bold;
+    margin-bottom: 8px;
+    font-size: 14px;
+  }
+  .step .label { font-size: 13px; color: #555; }
+
+  .card {
+    background: white;
+    border-radius: 14px;
+    padding: 26px;
+    margin-bottom: 22px;
+    box-shadow: 0 3px 12px rgba(0,0,0,0.07);
+  }
+
+  .persona-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: 12px;
+    margin: 14px 0 20px;
+  }
+  .persona-option {
+    border: 2px solid #eee;
+    border-radius: 10px;
+    padding: 14px 10px;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.15s;
+    background: #fafafa;
+  }
+  .persona-option:hover { border-color: #c9b8ea; }
+  .persona-option.selected {
+    border-color: #4c2f8f;
+    background: #f3edfd;
+  }
+  .persona-option .emoji { font-size: 26px; }
+  .persona-option .name { font-weight: 600; margin-top: 6px; font-size: 14px; }
+  .persona-option .occ { font-size: 12px; color: #888; }
+
+  .upload-zone {
+    border: 2px dashed #c9b8ea;
+    border-radius: 10px;
+    padding: 24px;
+    text-align: center;
+    background: #fbf9ff;
+    margin-bottom: 18px;
+  }
+  .upload-zone input { margin-top: 10px; }
+  .file-hint { font-size: 12px; color: #888; margin-top: 6px; }
+
+  button.primary {
+    background: linear-gradient(135deg, #4c2f8f, #6a3fc4);
+    color: white;
+    border: none;
+    padding: 14px 28px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    width: 100%;
+    transition: opacity 0.2s;
+  }
+  button.primary:disabled { opacity: 0.6; cursor: not-allowed; }
+  button.primary:hover:not(:disabled) { opacity: 0.92; }
+
+  .loading-box {
+    text-align: center;
+    padding: 30px 0;
+    color: #666;
+  }
+  .spinner {
+    width: 36px; height: 36px;
+    border: 4px solid #eee;
+    border-top-color: #4c2f8f;
+    border-radius: 50%;
+    animation: spin 0.9s linear infinite;
+    margin: 0 auto 14px;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  .result-section h3 {
+    color: #4c2f8f;
+    border-bottom: 2px solid #f0eaff;
+    padding-bottom: 8px;
+    margin-bottom: 14px;
+  }
+  table.txn-table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  table.txn-table th, table.txn-table td { text-align: left; padding: 8px 10px; border-bottom: 1px solid #eee; }
+  table.txn-table th { color: #888; font-weight: 600; font-size: 12px; text-transform: uppercase; }
+  .amt-income { color: #1b8a4a; font-weight: 600; }
+  .amt-expense { color: #c0392b; font-weight: 600; }
+
+  .signal-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 12px;
+    margin-bottom: 10px;
+  }
+  .signal-box {
+    background: #f9f7ff;
+    border-radius: 10px;
+    padding: 14px;
+    text-align: center;
+  }
+  .signal-box .val { font-size: 20px; font-weight: 700; color: #4c2f8f; }
+  .signal-box .lbl { font-size: 12px; color: #777; margin-top: 4px; }
+
+  .report-text {
+    background: #fdfbf6;
+    border-left: 4px solid #e07a3f;
+    padding: 18px 20px;
+    border-radius: 6px;
+    line-height: 1.6;
+    white-space: pre-wrap;
+    font-size: 15px;
+  }
+
+  .error-box {
+    background: #fdecea;
+    color: #a33;
+    border-radius: 8px;
+    padding: 16px;
+  }
+
+  footer {
+    text-align: center;
+    color: #999;
+    font-size: 13px;
+    margin-top: 40px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">Vitta<span>Sakhi</span></div>
+  <p class="tagline">Turning informal income records into a credit-readiness story lenders can trust.</p>
+  <div class="demo-badge">⚠ Prototype demo — no login, synthetic data only</div>
+</header>
+
+<div class="how-it-works">
+  <div class="step"><div class="num">1</div><div class="label">Upload a ledger photo or UPI screenshot</div></div>
+  <div class="step"><div class="num">2</div><div class="label">Gemini extracts the transaction data</div></div>
+  <div class="step"><div class="num">3</div><div class="label">BigQuery computes real cash-flow signals</div></div>
+  <div class="step"><div class="num">4</div><div class="label">Get a plain-language credit-readiness report</div></div>
+</div>
+
+<div class="card">
+  <label style="font-weight:600;">Select a worker</label>
+  <div class="persona-grid" id="personaGrid">
+    <div class="persona-option selected" data-persona="Asha">
+      <div class="emoji">🍱</div><div class="name">Asha</div><div class="occ">Tiffin service</div>
+    </div>
+    <div class="persona-option" data-persona="Meena">
+      <div class="emoji">🧵</div><div class="name">Meena</div><div class="occ">Tailoring</div>
+    </div>
+    <div class="persona-option" data-persona="Radha">
+      <div class="emoji">🧹</div><div class="name">Radha</div><div class="occ">Domestic help</div>
+    </div>
+    <div class="persona-option" data-persona="Sunita">
+      <div class="emoji">💇</div><div class="name">Sunita</div><div class="occ">Beauty services</div>
+    </div>
+  </div>
+
+  <label style="font-weight:600;">Upload a ledger photo or UPI screenshot</label>
+  <div class="upload-zone">
+    <input type="file" id="imageFile" accept="image/*">
+    <div class="file-hint">JPEG or PNG — a handwritten ledger page or UPI payment screenshot</div>
+  </div>
+
+  <button class="primary" id="submitBtn" onclick="processImage()">Generate Credit-Readiness Report</button>
+</div>
+
+<div id="results"></div>
+
+<footer>
+  VittaSakhi is a proof-of-concept built for a Google Cloud hackathon. It does not make lending decisions — it only makes income data legible for lenders to assess themselves. All data shown is synthetic.
+</footer>
+
+<script>
+  const API_URL = "http://127.0.0.1:8000"; // change to your deployed backend URL
+
+  let selectedPersona = "Asha";
+  document.querySelectorAll(".persona-option").forEach(el => {
+    el.addEventListener("click", () => {
+      document.querySelectorAll(".persona-option").forEach(o => o.classList.remove("selected"));
+      el.classList.add("selected");
+      selectedPersona = el.dataset.persona;
+    });
+  });
+
+  function tryParseJSON(text) {
+    if (!text) return null;
+    let cleaned = text.trim();
+    // strip markdown code fences if present
+    const fenceMatch = cleaned.match(/```(?:json)?\s*([\s\S]*?)```/);
+    if (fenceMatch) cleaned = fenceMatch[1].trim();
+    try {
+      return JSON.parse(cleaned);
+    } catch (e) {
+      // try to find the first { or [ and parse from there
+      const start = Math.min(
+        ...["{", "["].map(c => cleaned.indexOf(c)).filter(i => i >= 0)
+      );
+      if (isFinite(start)) {
+        try { return JSON.parse(cleaned.slice(start)); } catch (e2) { return null; }
+      }
+      return null;
+    }
+  }
+
+  function renderTransactions(data) {
+    const txns = data.transactions || [];
+    if (!txns.length) return "<p>No transactions parsed.</p>";
+    let rows = txns.map(t => `
+      <tr>
+        <td>${t.date || "-"}</td>
+        <td>${t.description || "-"}</td>
+        <td class="${t.transaction_type === 'income' ? 'amt-income' : 'amt-expense'}">
+          ${t.transaction_type === 'income' ? '+' : '-'}₹${t.amount_inr ?? "-"}
+        </td>
+        <td>${t.payment_method || "-"}</td>
+      </tr>
+    `).join("");
+    return `
+      <table class="txn-table">
+        <tr><th>Date</th><th>Description</th><th>Amount</th><th>Mode</th></tr>
+        ${rows}
+      </table>
+    `;
+  }
+
+  function renderSignals(data) {
+    const fmt = (v) => (v === null || v === undefined) ? "-" : (typeof v === "number" ? v.toFixed(2) : v);
+    return `
+      <div class="signal-grid">
+        <div class="signal-box"><div class="val">₹${fmt(data.avg_monthly_income)}</div><div class="lbl">Avg Monthly Income</div></div>
+        <div class="signal-box"><div class="val">₹${fmt(data.avg_monthly_expense)}</div><div class="lbl">Avg Monthly Expense</div></div>
+        <div class="signal-box"><div class="val">₹${fmt(data.avg_monthly_net)}</div><div class="lbl">Avg Net Position</div></div>
+        <div class="signal-box"><div class="val">${fmt(data.income_stability_ratio)}</div><div class="lbl">Stability Ratio (lower = steadier)</div></div>
+        <div class="signal-box"><div class="val">${data.active_income_weeks ?? "-"}</div><div class="lbl">Active Income Weeks</div></div>
+        <div class="signal-box"><div class="val">${data.trend_direction ?? "-"}</div><div class="lbl">Trend (${fmt(data.trend_change_pct)}%)</div></div>
+      </div>
+    `;
+  }
+
+  async function processImage() {
+    const fileInput = document.getElementById("imageFile");
+    const resultsDiv = document.getElementById("results");
+    const btn = document.getElementById("submitBtn");
+
+    if (!fileInput.files.length) {
+      alert("Please select an image first.");
+      return;
+    }
+
+    btn.disabled = true;
+    btn.textContent = "Processing...";
+    resultsDiv.innerHTML = `
+      <div class="card loading-box">
+        <div class="spinner"></div>
+        Running the Extraction, Cash-Flow, and Credit-Readiness agents…<br>
+        <small>This can take 20-40 seconds.</small>
+      </div>
+    `;
+
+    const formData = new FormData();
+    formData.append("persona", selectedPersona);
+    formData.append("image", fileInput.files[0]);
+
+    try {
+      const response = await fetch(`${API_URL}/process`, { method: "POST", body: formData });
+      if (!response.ok) throw new Error(`Server returned ${response.status}`);
+      const data = await response.json();
+
+      const extracted = tryParseJSON(data.extracted_data);
+      const signals = tryParseJSON(data.cashflow_signals);
+
+      resultsDiv.innerHTML = `
+        <div class="card result-section">
+          <h3>📄 Extracted Transactions</h3>
+          ${extracted ? renderTransactions(extracted) : `<pre>${data.extracted_data}</pre>`}
+        </div>
+        <div class="card result-section">
+          <h3>📊 Cash-Flow Signals (6-month history)</h3>
+          ${signals ? renderSignals(signals) : `<pre>${data.cashflow_signals}</pre>`}
+        </div>
+        <div class="card result-section">
+          <h3>✅ Credit-Readiness Report</h3>
+          <div class="report-text">${data.credit_report}</div>
+        </div>
+      `;
+    } catch (err) {
+      resultsDiv.innerHTML = `<div class="card error-box">Error: ${err.message}. Make sure the backend server is running.</div>`;
+    } finally {
+      btn.disabled = false;
+      btn.textContent = "Generate Credit-Readiness Report";
+    }
+  }
+</script>
+
+</body>
+</html>
